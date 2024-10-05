@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day-2\CSharpBasics\bin\Debug\CSharpBasics.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day-2\CSharpBasics\bin\Debug\CSharpBasics.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day-2\CSharpBasics\bin\Debug\CSharpBasics.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day-2\CSharpBasics\obj\Debug\program-1.1.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day-2\CSharpBasics\obj\Debug\program-1.1.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day-2\CSharpBasics\obj\Debug\CSharpBasics.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day-2\CSharpBasics\obj\Debug\CSharpBasics.pdb
