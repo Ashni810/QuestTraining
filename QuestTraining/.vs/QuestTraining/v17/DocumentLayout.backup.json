@@ -1,12 +1,69 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\QuestTraining\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D39ACD8-D741-4471-BFF0-9B7EE2C7143E}|..\\Day 5\\Program-5-Dictionary\\Program-5-Dictionary.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 5\\program-5-dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE8DB71E-624D-4055-B25A-0C1ED3956596}|..\\Day 5\\Program-4.3-list\\Program-4.3-list.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 5\\program-4.3-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A0EA9B-1F44-4E46-8766-6F9DB9F104AB}|..\\Day 5\\Program-4.2-list\\Program-4.2-listOflist.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 5\\program-4.2-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 5\\Program-4.2-list\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 5\\Program-4.2-list\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 5\\Program-4.2-list\\Program.cs",
+              "RelativeToolTip": "..\\Day 5\\Program-4.2-list\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:33:52.38Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 5\\Program-5-Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 5\\Program-5-Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 5\\Program-5-Dictionary\\Program.cs",
+              "RelativeToolTip": "..\\Day 5\\Program-5-Dictionary\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAACAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:23:16.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 5\\Program-4.3-list\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 5\\Program-4.3-list\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 5\\Program-4.3-list\\Program.cs",
+              "RelativeToolTip": "..\\Day 5\\Program-4.3-list\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:21:54.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

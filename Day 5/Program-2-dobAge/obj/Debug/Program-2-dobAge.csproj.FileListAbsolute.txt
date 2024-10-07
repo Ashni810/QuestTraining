@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-2-dobAge\bin\Debug\Program-2-dobAge.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-2-dobAge\bin\Debug\Program-2-dobAge.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-2-dobAge\bin\Debug\Program-2-dobAge.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-2-dobAge\obj\Debug\Program-2-dobAge.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-2-dobAge\obj\Debug\Program-2-dobAge.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-2-dobAge\obj\Debug\Program-2-dobAge.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-2-dobAge\obj\Debug\Program-2-dobAge.pdb

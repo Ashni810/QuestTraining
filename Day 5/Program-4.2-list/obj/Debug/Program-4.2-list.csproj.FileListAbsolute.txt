@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-4.2-list\bin\Debug\Program-4.2-list.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-4.2-list\bin\Debug\Program-4.2-list.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-4.2-list\bin\Debug\Program-4.2-list.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-4.2-list\obj\Debug\Program-4.2-list.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-4.2-list\obj\Debug\Program-4.2-list.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-4.2-list\obj\Debug\Program-4.2-list.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 5\Program-4.2-list\obj\Debug\Program-4.2-list.pdb
