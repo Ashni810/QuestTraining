@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program-4.3-Arraylist", "..
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program-5-Dictionary", "..\Day 5\Program-5-Dictionary\Program-5-Dictionary.csproj", "{6D39ACD8-D741-4471-BFF0-9B7EE2C7143E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Day 6", "Day 6", "{968D505D-413C-4D0B-86C6-C1B332D887E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
