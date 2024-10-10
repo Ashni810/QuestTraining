@@ -1,0 +1,218 @@
+CREATE TABLE medications (
+    id INT PRIMARY KEY IDENTITY,
+    name VARCHAR(100) NOT NULL,
+    category VARCHAR(100),
+    price DECIMAL(10, 2) NOT NULL,
+    expiry_date DATE,
+    supplier_id INT,
+    stock_quantity INT NOT NULL,
+    FOREIGN KEY (supplier_id) REFERENCES suppliers(id)
+);
+
+CREATE TABLE suppliers (
+    id INT PRIMARY KEY IDENTITY,
+    name VARCHAR(100) NOT NULL,
+    contact_person VARCHAR(100),
+    phone VARCHAR(20),
+    email VARCHAR(100),
+    address VARCHAR(255)
+);
+
+CREATE TABLE customers1 (
+    id INT PRIMARY KEY IDENTITY,
+    name VARCHAR(100) NOT NULL,
+    phone VARCHAR(20),
+    email VARCHAR(100),
+    address VARCHAR(255)
+);
+
+CREATE TABLE sales (
+    id INT PRIMARY KEY IDENTITY,
+    customer_id INT,
+    medication_id INT,
+    quantity INT NOT NULL,
+    sale_date DATE NOT NULL,
+    total_price DECIMAL(10, 2) NOT NULL,
+    FOREIGN KEY (customer_id) REFERENCES customers1(id),
+    FOREIGN KEY (medication_id) REFERENCES medications(id)
+);
+
+CREATE TABLE inventory (
+    id INT PRIMARY KEY IDENTITY,
+    medication_id INT,
+    supplier_id INT,
+    stock_in INT,
+    stock_out INT,
+    date_added DATE NOT NULL,
+    FOREIGN KEY (medication_id) REFERENCES medications(id),
+    FOREIGN KEY (supplier_id) REFERENCES suppliers(id)
+);
+
+--creating stored procedure for medication--
+CREATE PROCEDURE InsertMedication
+    @med_name VARCHAR(100),
+    @med_category VARCHAR(100),
+    @med_price DECIMAL(10, 2),
+    @med_expiry_date DATE,
+    @med_supplier_id INT,
+    @med_stock_quantity INT
+AS
+BEGIN
+    INSERT INTO medications (name, category, price, expiry_date, supplier_id, stock_quantity)
+    VALUES (@med_name, @med_category, @med_price, @med_expiry_date, @med_supplier_id, @med_stock_quantity);
+END
+--creating stored procedure for supplier--
+CREATE PROCEDURE InsertSupplier
+    @supp_name VARCHAR(100),
+    @supp_contact_person VARCHAR(100),
+    @supp_phone VARCHAR(20),
+    @supp_email VARCHAR(100),
+    @supp_address VARCHAR(255)
+AS
+BEGIN
+    INSERT INTO suppliers (name, contact_person, phone, email, address)
+    VALUES (@supp_name, @supp_contact_person, @supp_phone, @supp_email, @supp_address);
+END
+
+----procedure for sales--
+CREATE PROCEDURE sp_sales
+(
+	@Customer_id INT,
+	@Medication_id INT,
+	@Quantity BIGINT,
+	@Sale_date DATE,
+	@Total_price decimal(5,2)
+)
+AS
+BEGIN
+	INSERT INTO sales(customer_id,medication_id,quantity,sale_date,total_price)
+	VALUES (@Customer_id,@Medication_id,@Quantity,@Sale_date,@Total_price);
+END
+
+--creating stored procedure for cutomer--
+CREATE PROCEDURE InsertCustomer
+    @cust_name VARCHAR(100),
+    @cust_phone VARCHAR(20),
+    @cust_email VARCHAR(100),
+    @cust_address VARCHAR(255)
+AS
+BEGIN
+    INSERT INTO customers(name, phone, email, address)
+    VALUES (@cust_name, @cust_phone, @cust_email, @cust_address);
+END
+
+Q1)EXEC InsertMedication 
+    @med_name = 'Paracetamol', 
+    @med_category = 'Analgesic', 
+    @med_price = 2.50, 
+    @med_expiry_date = '2025-05-01', 
+    @med_supplier_id = 1, 
+    @med_stock_quantity = 150;
+
+Q2)EXEC InsertSupplier 
+    @supp_name = 'HealthCorp', 
+    @supp_contact_person = 'Alice Johnson', 
+    @supp_phone = '123-456-7890', 
+    @supp_email = 'contact@healthcorp.com', 
+    @supp_address = '789 Wellness St.';
+
+Q3)EXEC InsertCustomers 
+    @cust_name = 'John Doe', 
+    @cust_phone = '987-654-3210', 
+    @cust_email = 'john.doe@example.com', 
+    @cust_address = '123 Main St.';
+
+Q4)EXEC InsertMedication --adding another record--
+    @med_name = 'Aspirin ', 
+    @med_category = 'Pain', 
+    @med_price = 3.50, 
+    @med_expiry_date = '2026-05-01', 
+    @med_supplier_id = 1, 
+    @med_stock_quantity = 250;
+
+
+CREATE PROCEDURE UpdateMedicationStock --sets the new stock quantity to the value provided in the @new_stock_quantity--
+    @med_id INT,
+    @new_stock_quantity INT
+AS
+BEGIN
+    UPDATE medications
+    SET stock_quantity = @new_stock_quantity
+    WHERE id = @med_id;
+END
+
+EXEC UpdateMedicationStock @med_id = 4, @new_stock_quantity = 150;
+
+SELECT * FROM medications;
+
+
+Q5)SELECT m.*, s.name AS supplier_name, s.contact_person, s.phone, s.email, s.address
+FROM medications m
+INNER JOIN suppliers s ON m.supplier_id = s.id;
+
+Q6)SELECT 
+    m.name AS medication_name,
+    s.name AS supplier_name
+FROM 
+    medications m
+INNER JOIN 
+    suppliers s ON m.supplier_id = s.id;
+
+Q7)SELECT 
+    m.name AS medication_name,
+    c.name AS customer_name,
+    s.total_price AS total_amount
+FROM 
+    Sales s
+INNER JOIN 
+    Medications m ON s.medication_id = m.id
+INNER JOIN 
+    Customers c ON s.customer_id = c.id;
+
+--Filtering by Customer--
+SELECT * 
+FROM Sales s 
+INNER JOIN Customers c ON s.customer_id = c.id 
+WHERE c.name = 'John Doe';
+
+--Filitering by Date
+SELECT * 
+FROM Sales s 
+WHERE s.sale_date BETWEEN '2024-10-01' AND '2024-10-31';
+
+--filitering by medication-
+SELECT * 
+FROM Sales s 
+INNER JOIN Medications m ON s.medication_id = m.id 
+WHERE m.name = 'Aspirin';
+
+--Track sales and filter them by customer, date, or medication-
+SELECT 
+    s.id,
+    m.name AS medication_name,
+    c.name AS customer_name,
+    s.quantity,
+    s.sale_date,
+    s.total_price
+FROM 
+    Sales s
+INNER JOIN 
+    Medications m ON s.medication_id = m.id
+INNER JOIN 
+    Customers c ON s.customer_id = c.id
+WHERE 
+    m.name = 'Aspirin';
+
+Q8)SELECT 
+    s.quantity,
+    s.sale_date,
+    s.total_price
+FROM 
+    Sales s
+INNER JOIN 
+    Customers c ON s.customer_id = c.id
+WHERE 
+    c.name = 'Alice Smith';
+
+Q14)DELETE FROM Medications
+WHERE expiry_date < GETDATE();

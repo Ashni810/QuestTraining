@@ -1,4 +1,4 @@
--- Create the Customers table
+--- Create the Customers table
 
 CREATE TABLE Customers (
   CustomerID INT PRIMARY KEY IDENTITY(1,1),
@@ -124,4 +124,18 @@ FROM Transactions
 WHERE Amount < 1000 ;
 
 
-view using joins
+--view using joins View All Transactions
+SELECT 
+    transactions.transaction_id,
+    transactions.transaction_type,
+    transactions.amount,
+    accounts.account_number,
+    customers.name AS customer_name,
+    accounts.account_type,
+    accounts.balance
+FROM 
+    transactions 
+INNER JOIN 
+    accounts  ON transactions.account_id = accounts.account_id
+INNER JOIN 
+    customers ON accounts.customer_id = customers.customer_id;
