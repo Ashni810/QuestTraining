@@ -1,0 +1,27 @@
+ Aggregate Functions:
+	Used to perform calculations on a set of values and return a single value. These functions includes:
+
+		COUNT(): Counts the number of rows.
+		SUM(): Adds all values in a column.
+		AVG(): Returns the average value.
+		MIN(): Returns the minimum value.
+		MAX(): Returns the maximum value.
+SUM()
+SELECT SUM(total_amount) AS total_orders
+FROM orders;
+
+AVG()
+SELECT AVG(grade) AS average_grade
+FROM students;
+
+MIN()
+SELECT MAX(price) AS lowest_price
+FROM products;
+
+MAX()
+SELECT MAX(price) AS highest_price
+FROM products;
+
+COUNT()
+SELECT COUNT(*) AS num_customers
+FROM customers;

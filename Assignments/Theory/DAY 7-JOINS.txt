@@ -1,0 +1,86 @@
+1. INNER JOIN
+An inner join returns only the rows that have a match in both tables.
+
+Syntax:
+SELECT *
+FROM table1
+INNER JOIN table2
+ON table1.column_name = table2.column_name;
+Example:
+SELECT *
+FROM customers
+INNER JOIN orders
+ON customers.customer_id = orders.customer_id;
+
+2. LEFT JOIN (or LEFT OUTER JOIN)
+A left join returns all the rows from the left table and the matching rows from the right table. If there are no matches, the result will contain null values.
+
+SYNTAX:
+SELECT *
+FROM table1
+LEFT JOIN table2
+ON table1.column_name = table2.column_name;
+
+Example:
+SELECT *
+FROM customers
+LEFT JOIN orders
+ON customers.customer_id = orders.customer_id;
+
+3. RIGHT JOIN (or RIGHT OUTER JOIN)
+A right join is similar to a left join, but it returns all the rows from the right table and the matching rows from the left table.
+
+Syntax:
+SELECT *
+FROM table1
+RIGHT JOIN table2
+ON table1.column_name = table2.column_name;
+
+Example:
+SELECT *
+FROM orders
+RIGHT JOIN customers
+ON orders.customer_id = customers.customer_id;
+
+4. FULL JOIN (or FULL OUTER JOIN)
+A full join returns all rows from both tables, with null values in the columns where there are no matches.
+
+Syntax:
+SELECT *
+FROM table1
+FULL JOIN table2
+ON table1.column_name = table2.column_name;
+
+Example:
+SELECT *
+FROM customers
+FULL JOIN orders
+ON customers.customer_id = orders.customer_id;
+
+5. CROSS JOIN
+A cross join returns the Cartesian product of both tables, with each row of one table combined with each row of the other table.
+
+Syntax:
+SELECT *
+FROM table1
+CROSS JOIN table2;
+
+EXAMPLE:
+SELECT *
+FROM customers
+CROSS JOIN orders;
+
+6. SELF JOIN
+A self join is used to join a table with itself, often to compare rows within the same table.
+
+Syntax:
+SELECT *
+FROM table1
+INNER JOIN table1 AS alias
+ON table1.column_name = alias.column_name;
+Example:
+
+SELECT *
+FROM employees
+INNER JOIN employees AS managers
+ON employees.manager_id = managers.employee_id;

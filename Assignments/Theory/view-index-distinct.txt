@@ -1,0 +1,22 @@
+Q. Explain DISTINCT, VIEWS and INDEX.
+
+DISTINCT :
+	DISTINCT is used in SQL to remove duplicate rows from the result set of a query. When you retrieve data from a table, some columns might have 	duplicate values, and DISTINCT ensures that only unique values are returned.
+	Example:
+		SELECT DISTINCT Age
+		FROM Students;
+
+INDEX:
+	An INDEX is a database object that improves the speed of data retrieval operations on a table by allowing the database to quickly locate specific 	rows. Indexes are created on columns that are frequently searched.
+	Example:
+		CREATE INDEX ind_age
+		ON Students (Age);
+VIEWS:
+	A VIEW is a virtual table that is based on the result of a SQL query. Unlike a physical table, a view doesn't store data itself but provides a way 	to look at data from one or more tables. You can think of it as a saved query that can be treated like a table. We can edit datas in VIEWS only it 	can be viewed. ORDER BY CLAUSE can't be used within VIEWS.
+	
+	It is useful in case of complicated queries. If we want to reuse it we can create it as a VIEW thus making it easier to access the queries just with 	their names each time we want to access that query.
+	Example:
+		CREATE VIEW AdultStudents AS
+		SELECT Name, Age
+		FROM Students
+		WHERE Age >= 18;
