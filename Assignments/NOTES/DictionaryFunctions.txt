@@ -1,0 +1,117 @@
+    TYPES OF INBUILD FUNCTION IN DICTIONARY:
+
+1. Add(Key, Value)
+Adds an element with the specified key and value to the dictionary.
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Add("John", 25);
+Console.WriteLine(ages["John"]); // Output: 25
+
+2. Clear()
+Removes all elements from the dictionary.
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Add("John", 25);
+ages.Add("Alice", 30);
+ages.Clear();
+Console.WriteLine(ages.Count); // Output: 0
+
+3. ContainsKey(Key)
+Determines whether the dictionary contains an element with the specified key.
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Add("John", 25);
+bool containsKey = ages.ContainsKey("John");
+Console.WriteLine(containsKey); // Output: True
+
+4. ContainsValue(Value)
+Determines whether the dictionary contains an element with the specified value.
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Add("John", 25);
+bool containsValue = ages.ContainsValue(25);
+Console.WriteLine(containsValue); // Output: True
+
+5. GetEnumerator()
+Returns an enumerator that iterates through the dictionary.
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Add("John", 25);
+ages.Add("Alice", 30);
+foreach (var pair in ages)
+{
+    Console.WriteLine($"Key: {pair.Key}, Value: {pair.Value}");
+}
+// Output:
+// Key: John, Value: 25
+// Key: Alice, Value: 30
+
+6. Remove(Key)
+Removes the element with the specified key from the dictionary.
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Add("John", 25);
+ages.Add("Alice", 30);
+ages.Remove("John");
+Console.WriteLine(ages.Count); // Output: 1
+
+7. TryGetValue(Key, out Value)
+Gets the value associated with the specified key if the key is in the dictionary.
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Add("John", 25);
+if (ages.TryGetValue("John", out int age))
+{
+    Console.WriteLine(age); // Output: 25
+}
+
+8. Keys
+Gets a collection containing the keys of the dictionary.
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Add("John", 25);
+ages.Add("Alice", 30);
+foreach (var key in ages.Keys)
+{
+    Console.WriteLine(key);
+}
+// Output:
+// John
+// Alice
+
+9. Values
+Gets a collection containing the values of the dictionary.
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Add("John", 25);
+ages.Add("Alice", 30);
+foreach (var value in ages.Values)
+{
+    Console.WriteLine(value);
+}
+// Output:
+// 25
+// 30
+
+10. Count
+Gets the number of elements in the dictionary.
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Add("John", 25);
+ages.Add("Alice", 30);
+Console.WriteLine(ages.Count); // Output: 2
+
+11. Item[Key]
+Gets or sets the value associated with the specified key.
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.Add("John", 25);
+ages["John"] = 30;
+Console.WriteLine(ages["John"]); // Output: 30
+
+12. ToDictionary()
+Creates a dictionary from a sequence of key-value pairs.
+var pairs = new[] { new { Key = "John", Value = 25 }, new { Key = "Alice", Value = 30 } };
+var dictionary = pairs.ToDictionary(p => p.Key, p => p.Value);
+foreach (var pair in dictionary)
+{
+    Console.WriteLine($"Key: {pair.Key}, Value: {pair.Value}");
+}
+// Output:
+// Key: John, Value: 25
+// Key: Alice, Value: 30
+
+13. TryAdd(Key, Value)
+Adds an element with the specified key and value to the dictionary if the key is not already present.
+Dictionary<string, int> ages = new Dictionary<string, int>();
+ages.TryAdd("John", 25);
+Console.WriteLine(ages["John"]); // Output

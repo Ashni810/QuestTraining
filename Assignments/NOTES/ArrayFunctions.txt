@@ -1,0 +1,90 @@
+  TYPES OF INBUILD FUNCTIONS IN ARRAYS:                          
+
+1. Length
+Gets the number of elements in the array.
+int[] numbers = { 1, 2, 3, 4, 5 };
+int length = numbers.Length;
+Console.WriteLine(length); // Output: 5
+
+2. Rank
+Gets the number of dimensions in the array.
+int[,] numbers = { { 1, 2 }, { 3, 4 } };
+int rank = numbers.Rank;
+Console.WriteLine(rank); // Output: 2
+
+3. GetLength(int dimension)
+Gets the number of elements in the specified dimension.
+int[,] numbers = { { 1, 2 }, { 3, 4 } };
+int length = numbers.GetLength(0);
+Console.WriteLine(length); // Output: 2
+
+4. GetLowerBound(int dimension)
+Gets the lower bound of the specified dimension.
+int[,] numbers = { { 1, 2 }, { 3, 4 } };
+int lowerBound = numbers.GetLowerBound(0);
+Console.WriteLine(lowerBound); // Output: 0
+
+5. GetUpperBound(int dimension)
+Gets the upper bound of the specified dimension.
+int[,] numbers = { { 1, 2 }, { 3, 4 } };
+int upperBound = numbers.GetUpperBound(0);
+Console.WriteLine(upperBound); // Output: 1
+
+6. GetValue(int index)
+Gets the value at the specified position in the array.
+int[] numbers = { 1, 2, 3, 4, 5 };
+int value = (int)numbers.GetValue(0);
+Console.WriteLine(value); // Output: 1
+
+7. SetValue(object value, int index)
+Sets the value at the specified position in the array.
+int[] numbers = { 1, 2, 3, 4, 5 };
+numbers.SetValue(10, 0);
+Console.WriteLine(numbers[0]); // Output: 10
+
+8. BinarySearch(Array array, object value)
+Searches for the specified object and returns the zero-based index of the first occurrence within the entire array.
+int[] numbers = { 1, 2, 3, 4, 5 };
+int index = Array.BinarySearch(numbers, 3);
+Console.WriteLine(index); // Output: 2
+
+9. Clear(Array array, int index, int length)
+Sets a range of elements in the array to zero, to null, or to a default value.
+int[] numbers = { 1, 2, 3, 4, 5 };
+Array.Clear(numbers, 1, 2);
+Console.WriteLine(string.Join(", ", numbers)); // Output: 1, 0, 0, 4, 5
+
+10. Copy(Array sourceArray, int sourceIndex, Array destinationArray, int destinationIndex, int length)
+Copies a range of elements from an array to another array.
+int[] source = { 1, 2, 3, 4, 5 };
+int[] destination = new int[5];
+Array.Copy(source, 1, destination, 0, 2);
+Console.WriteLine(string.Join(", ", destination)); // Output: 2, 3, 0, 0, 0
+
+11. CreateInstance(Type type, int length)
+Creates a new array of the specified type and length.
+int[] numbers = (int[])Array.CreateInstance(typeof(int), 5);
+Console.WriteLine(numbers.Length); // Output: 5
+
+12. IndexOf(Array array, object value)
+Searches for the specified object and returns the zero-based index of the first occurrence within the entire array.
+int[] numbers = { 1, 2, 3, 4, 5 };
+int index = Array.IndexOf(numbers, 3);
+Console.WriteLine(index); // Output: 2
+
+13. LastIndexOf(Array array, object value)
+Searches for the specified object and returns the zero-based index of the last occurrence within the entire array.
+int[] numbers = { 1, 2, 3, 4, 5, 3 };
+int index = Array.LastIndexOf(numbers, 3);
+Console.WriteLine(index); // Output: 5
+
+14. Resize(ref Array array, int newSize)
+Resizes an array to the specified size.
+int[] numbers = { 1, 2, 3, 4, 5 };
+Console.WriteLine("Original array: " + string.Join(", ", numbers));
+Array.Resize(ref numbers, 8);
+Console.WriteLine("Resized array: " + string.Join(", ", numbers));
+
+// Output:
+// Original array: 1, 2, 3, 4, 5
+// Resized array: 1, 2, 3, 4, 5, 0, 0, 0

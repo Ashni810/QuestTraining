@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 9\patient\bin\Debug\patient.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 9\patient\bin\Debug\patient.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 9\patient\bin\Debug\patient.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 9\patient\obj\Debug\patient.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 9\patient\obj\Debug\patient.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 9\patient\obj\Debug\patient.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 9\patient\obj\Debug\patient.pdb

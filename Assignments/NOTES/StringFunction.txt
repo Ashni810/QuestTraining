@@ -1,0 +1,112 @@
+ string type is a sealed class that represents a sequence of characters. 
+ It is a fundamental data type in the .NET Framework and is used to represent text-based data.
+
+Here are some key characteristics of the string type :
+
+1. Immutable: Strings in C# are immutable, meaning that once a string is created, its contents cannot be modified. Any operation that appears to modify a string actually creates a new string object.
+2. Sealed Class: The string class is sealed, which means it cannot be inherited from.
+3. Unicode Characters: Strings in C# are composed of Unicode characters, which are 16-bit characters that can represent a wide range of languages and symbols.
+4. Null-Terminated: Strings in C# are null-terminated, meaning that they are terminated by a null character (\0).
+5. Length Property: The Length property returns the number of characters in the string.
+6. Indexing: Strings can be indexed using square brackets [], allowing you to access individual characters in the string.
+7. Concatenation: Strings can be concatenated using the + operator or the string.Concat method.
+
+
+TYPES OF INBUILT FUNCTION IN STRINGS:
+
+
+1. ToUpper()
+Converts the string to uppercase.
+string str = "hello";
+string upperCase = str.ToUpper();
+Console.WriteLine(upperCase); // Output: HELLO
+
+2. ToLower()
+Converts the string to lowercase.
+string str = "HELLO";
+string lowerCase = str.ToLower();
+Console.WriteLine(lowerCase); // Output: hello
+
+3. Trim()
+Removes all leading and trailing white-space characters from the string.
+string str = "   hello   ";
+string trimmed = str.Trim();
+Console.WriteLine(trimmed); // Output: hello
+
+4. TrimStart()
+Removes all leading white-space characters from the string.
+string str = "   hello";
+string trimmedStart = str.TrimStart();
+Console.WriteLine(trimmedStart); // Output: hello
+
+5. TrimEnd()
+Removes all trailing white-space characters from the string.
+string str = "hello   ";
+string trimmedEnd = str.TrimEnd();
+Console.WriteLine(trimmedEnd); // Output: hello
+
+6. Substring(int startIndex)
+Retrieves a substring from the specified starting position to the end of the string.
+string str = "hello world";
+string sub = str.Substring(6);
+Console.WriteLine(sub); // Output: world
+
+7. Substring(int startIndex, int length)
+Retrieves a substring from the specified starting position with the specified length.
+string str = "hello world";
+string sub = str.Substring(6, 5);
+Console.WriteLine(sub); // Output: world
+
+8. IndexOf(string value)
+Searches for the specified string and returns the zero-based index of the first occurrence.
+string str = "hello world";
+int index = str.IndexOf("world");
+Console.WriteLine(index); // Output: 6
+
+9. LastIndexOf(string value)
+Searches for the specified string and returns the zero-based index of the last occurrence.
+string str = "hello world world";
+int index = str.LastIndexOf("world");
+Console.WriteLine(index); // Output: 12
+
+10. Contains(string value)
+Determines whether the specified string is contained in the current string.
+string str = "hello world";
+bool contains = str.Contains("world");
+Console.WriteLine(contains); // Output: True
+
+11. Replace(string oldValue, string newValue)
+Replaces all occurrences of a specified string with another specified string.
+string str = "hello world";
+string replaced = str.Replace("world", "universe");
+Console.WriteLine(replaced); // Output: hello universe
+
+12. Split(params char[] separator)
+Splits a string into an array of substrings based on the specified separator characters.
+string str = "hello,world,universe";
+string[] split = str.Split(',');
+Console.WriteLine(string.Join(", ", split)); // Output: hello, world, universe
+
+13. Join(string separator, params string[] value)
+Concatenates the elements of an array into a single string, using the specified separator between each element.
+string[] values = { "hello", "world", "universe" };
+string joined = string.Join(", ", values);
+Console.WriteLine(joined); // Output: hello, world, universe
+
+14. Format(string format, params object[] args)
+Replaces the format items in a specified string with the string representation of a corresponding object in a specified array.
+string format = "Hello, {0}!";
+string formatted = string.Format(format, "world");
+Console.WriteLine(formatted); // Output: Hello, world!
+
+15. StartsWith(string value)
+Determines whether the beginning of the current string matches the specified string.
+string str = "hello world";
+bool startsWith = str.StartsWith("hello");
+Console.WriteLine(startsWith); // Output: True
+
+16. EndsWith(string value)
+Determines whether the end of the current string matches the specified string.
+string str = "hello world";
+bool endsWith = str.EndsWith("world");
+Console.WriteLine(endsWith); // Output: True
