@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp4
 {
     internal class Program
-    {
+    {//copy to an array and resizing//
         static void Main(string[] args)
         {
                 string[] animals = { "Cat", "Rat", "Rabbit", "Tiger" };

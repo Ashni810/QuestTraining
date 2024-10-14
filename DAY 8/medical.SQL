@@ -33,7 +33,7 @@ CREATE TABLE sales (
     quantity INT NOT NULL,
     sale_date DATE NOT NULL,
     total_price DECIMAL(10, 2) NOT NULL,
-    FOREIGN KEY (customer_id) REFERENCES customers1(id),
+    FOREIGN KEY (customer_id) REFERENCES customers(id),
     FOREIGN KEY (medication_id) REFERENCES medications(id)
 );
 

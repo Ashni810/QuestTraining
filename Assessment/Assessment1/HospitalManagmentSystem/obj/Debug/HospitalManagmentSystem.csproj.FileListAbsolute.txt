@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment1\HospitalManagmentSystem\bin\Debug\HospitalManagmentSystem.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment1\HospitalManagmentSystem\bin\Debug\HospitalManagmentSystem.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment1\HospitalManagmentSystem\bin\Debug\HospitalManagmentSystem.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment1\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment1\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment1\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment1\HospitalManagmentSystem\obj\Debug\HospitalManagmentSystem.pdb

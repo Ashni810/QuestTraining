@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\viva1\viva1\bin\Debug\viva1.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\viva1\viva1\bin\Debug\viva1.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\viva1\viva1\bin\Debug\viva1.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\viva1\viva1\obj\Debug\viva1.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\viva1\viva1\obj\Debug\viva1.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\viva1\viva1\obj\Debug\viva1.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\viva1\viva1\obj\Debug\viva1.pdb
