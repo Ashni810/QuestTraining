@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\program2\bin\Debug\program2.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\program2\bin\Debug\program2.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\program2\bin\Debug\program2.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\program2\obj\Debug\program2.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\program2\obj\Debug\program2.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\program2\obj\Debug\program2.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\program2\obj\Debug\program2.pdb

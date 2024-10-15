@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\SmartPhone\bin\Debug\SmartPhone.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\SmartPhone\bin\Debug\SmartPhone.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\SmartPhone\bin\Debug\SmartPhone.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\SmartPhone\obj\Debug\SmartPhone.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\SmartPhone\obj\Debug\SmartPhone.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\SmartPhone\obj\Debug\SmartPhone.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 11-OOPS\SmartPhone\obj\Debug\SmartPhone.pdb
