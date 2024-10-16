@@ -3,19 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\QuestTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E0202C6-B2B6-46AD-856B-7C94BAE16C0C}|..\\Day 12-Inheritance\\Students\\Students.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 12-inheritance\\students\\collegestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B07C40F-3961-40EF-BC6A-A98BD102313D}|..\\Assignments\\StudentsManagementSystem\\StudentsManagementSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\assignments\\studentsmanagementsystem\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E0202C6-B2B6-46AD-856B-7C94BAE16C0C}|..\\Day 12-Inheritance\\Students\\Students.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 12-inheritance\\students\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B07C40F-3961-40EF-BC6A-A98BD102313D}|..\\Assignments\\StudentsManagementSystem\\StudentsManagementSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\assignments\\studentsmanagementsystem\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E0202C6-B2B6-46AD-856B-7C94BAE16C0C}|..\\Day 12-Inheritance\\Students\\Students.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 12-inheritance\\students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E0202C6-B2B6-46AD-856B-7C94BAE16C0C}|..\\Day 12-Inheritance\\Students\\Students.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 12-inheritance\\students\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E0202C6-B2B6-46AD-856B-7C94BAE16C0C}|..\\Day 12-Inheritance\\Students\\Students.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 12-inheritance\\students\\schoolstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B07C40F-3961-40EF-BC6A-A98BD102313D}|..\\Assignments\\StudentsManagementSystem\\StudentsManagementSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\assignments\\studentsmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,71 +19,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Address.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12-Inheritance\\Students\\Address.cs",
-              "RelativeDocumentMoniker": "..\\Day 12-Inheritance\\Students\\Address.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12-Inheritance\\Students\\Address.cs",
-              "RelativeToolTip": "..\\Day 12-Inheritance\\Students\\Address.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T11:34:42.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CollegeStudent.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12-Inheritance\\Students\\CollegeStudent.cs",
-              "RelativeDocumentMoniker": "..\\Day 12-Inheritance\\Students\\CollegeStudent.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12-Inheritance\\Students\\CollegeStudent.cs",
-              "RelativeToolTip": "..\\Day 12-Inheritance\\Students\\CollegeStudent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Title": "StudentManager.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assignments\\StudentsManagementSystem\\StudentManager.cs",
+              "RelativeDocumentMoniker": "..\\Assignments\\StudentsManagementSystem\\StudentManager.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assignments\\StudentsManagementSystem\\StudentManager.cs*",
+              "RelativeToolTip": "..\\Assignments\\StudentsManagementSystem\\StudentManager.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T11:25:57.956Z",
+              "WhenOpened": "2024-10-16T16:49:23.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SchoolStudent.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12-Inheritance\\Students\\SchoolStudent.cs",
-              "RelativeDocumentMoniker": "..\\Day 12-Inheritance\\Students\\SchoolStudent.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12-Inheritance\\Students\\SchoolStudent.cs",
-              "RelativeToolTip": "..\\Day 12-Inheritance\\Students\\SchoolStudent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T11:25:13.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12-Inheritance\\Students\\Student.cs",
-              "RelativeDocumentMoniker": "..\\Day 12-Inheritance\\Students\\Student.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12-Inheritance\\Students\\Student.cs",
-              "RelativeToolTip": "..\\Day 12-Inheritance\\Students\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assignments\\StudentsManagementSystem\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Assignments\\StudentsManagementSystem\\Student.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assignments\\StudentsManagementSystem\\Student.cs",
+              "RelativeToolTip": "..\\Assignments\\StudentsManagementSystem\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T11:24:40.675Z",
+              "WhenOpened": "2024-10-16T16:48:56.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12-Inheritance\\Students\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 12-Inheritance\\Students\\Program.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 12-Inheritance\\Students\\Program.cs",
-              "RelativeToolTip": "..\\Day 12-Inheritance\\Students\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assignments\\StudentsManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Assignments\\StudentsManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assignments\\StudentsManagementSystem\\Program.cs",
+              "RelativeToolTip": "..\\Assignments\\StudentsManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T11:21:40.656Z",
+              "WhenOpened": "2024-10-16T16:48:23.46Z",
               "EditorCaption": ""
             }
           ]

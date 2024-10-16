@@ -141,6 +141,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance1.1", "Inheritan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "..\Day 12-Inheritance\Students\Students.csproj", "{7E0202C6-B2B6-46AD-856B-7C94BAE16C0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentsManagementSystem", "..\Assignments\StudentsManagementSystem\StudentsManagementSystem.csproj", "{4B07C40F-3961-40EF-BC6A-A98BD102313D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -367,6 +369,10 @@ Global
 		{7E0202C6-B2B6-46AD-856B-7C94BAE16C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E0202C6-B2B6-46AD-856B-7C94BAE16C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E0202C6-B2B6-46AD-856B-7C94BAE16C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B07C40F-3961-40EF-BC6A-A98BD102313D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B07C40F-3961-40EF-BC6A-A98BD102313D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B07C40F-3961-40EF-BC6A-A98BD102313D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B07C40F-3961-40EF-BC6A-A98BD102313D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -428,6 +434,7 @@ Global
 		{7B87BB7D-3DA6-44B7-A18A-8CD10D37C404} = {BAD4CC42-8B49-45C2-8519-DFAF91D61234}
 		{BADADD91-FD47-4D7F-87BD-BDD7B387A7F1} = {44C63C74-E899-4F40-B209-12303B7E5114}
 		{7E0202C6-B2B6-46AD-856B-7C94BAE16C0C} = {44C63C74-E899-4F40-B209-12303B7E5114}
+		{4B07C40F-3961-40EF-BC6A-A98BD102313D} = {2C7ABF25-6548-41F6-BBA4-8E331DFDB9BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F094249-8A72-465B-80C8-6649B7F52369}

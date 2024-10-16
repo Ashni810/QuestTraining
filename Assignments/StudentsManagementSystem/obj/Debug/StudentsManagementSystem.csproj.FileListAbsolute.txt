@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\StudentsManagementSystem\bin\Debug\StudentsManagementSystem.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\StudentsManagementSystem\bin\Debug\StudentsManagementSystem.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\StudentsManagementSystem\bin\Debug\StudentsManagementSystem.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\StudentsManagementSystem\obj\Debug\StudentsManagementSystem.pdb
