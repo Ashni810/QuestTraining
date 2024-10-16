@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 12-Inheritance\Students\bin\Debug\Students.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 12-Inheritance\Students\bin\Debug\Students.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 12-Inheritance\Students\bin\Debug\Students.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 12-Inheritance\Students\obj\Debug\Students.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 12-Inheritance\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 12-Inheritance\Students\obj\Debug\Students.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 12-Inheritance\Students\obj\Debug\Students.pdb
