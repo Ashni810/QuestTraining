@@ -123,6 +123,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student", "..\DAY 11-OOPS\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard", "..\DAY 11-OOPS\CreditCard\CreditCard.csproj", "{C3FC071D-BBE3-40DC-8839-364F80D651DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCardManagmentSystem", "..\Assignments\CreditCardManagmentSystem\CreditCardManagmentSystem.csproj", "{C0E585A1-8FB5-414C-9B5D-B84D6AE771E2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,10 @@ Global
 		{C3FC071D-BBE3-40DC-8839-364F80D651DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3FC071D-BBE3-40DC-8839-364F80D651DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3FC071D-BBE3-40DC-8839-364F80D651DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E585A1-8FB5-414C-9B5D-B84D6AE771E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E585A1-8FB5-414C-9B5D-B84D6AE771E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E585A1-8FB5-414C-9B5D-B84D6AE771E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E585A1-8FB5-414C-9B5D-B84D6AE771E2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -375,6 +381,7 @@ Global
 		{DE020524-2ACF-4368-9903-CC6346062F3E} = {6AD608D6-0785-43E2-8687-C19664687C76}
 		{8AC472B6-2CE8-421B-8E03-9ECAE314B97B} = {6AD608D6-0785-43E2-8687-C19664687C76}
 		{C3FC071D-BBE3-40DC-8839-364F80D651DC} = {6AD608D6-0785-43E2-8687-C19664687C76}
+		{C0E585A1-8FB5-414C-9B5D-B84D6AE771E2} = {2C7ABF25-6548-41F6-BBA4-8E331DFDB9BE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F094249-8A72-465B-80C8-6649B7F52369}
