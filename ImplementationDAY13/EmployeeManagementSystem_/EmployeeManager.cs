@@ -11,9 +11,16 @@ namespace EmployeeManagementSystem_
     internal class EmployeeManager
     {
         private readonly IStorageService _storageService;
+        private Services.JsonFileStorage storageService;
+
         public EmployeeManager(IStorageService storageService)
         {
             _storageService = storageService;
+        }
+
+        public EmployeeManager(Services.JsonFileStorage storageService)
+        {
+            this.storageService = storageService;
         }
 
         public void Add()

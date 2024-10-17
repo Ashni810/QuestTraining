@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using EmployeeManagementSystem_.Entities.Types;
+using static EmployeeManagementSystem_.Entities.Types.EmployementType;
 
 namespace EmployeeManagementSystem_.Entities.Types
 {

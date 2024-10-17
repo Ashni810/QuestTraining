@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\EmployeeManagement",
+    "\\EmployeeManagement\\Entities",
+    "\\EmployeeManagement\\Entities\\Types",
+    "\\EmployeeManagement\\obj\\Debug\\TempPE",
+    "\\EmployeeManagement\\obj\\Release",
+    "\\EmployeeManagement\\Properties",
+    "\\EmployeeManagement\\Services",
+    "\\packages"
+  ],
+  "SelectedNode": "\\EmployeeManagement\\EmployeeManager.cs",
+  "PreviewInSolutionExplorer": false
+}

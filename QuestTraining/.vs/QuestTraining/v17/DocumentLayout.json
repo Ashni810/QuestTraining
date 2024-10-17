@@ -1,12 +1,212 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\QuestTraining\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D146BBED-60A8-4DE3-830B-B990B662DC97}|..\\DAY 13\\Static1.1\\Static1.1.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 13\\static1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C768CA8-87AF-482E-9CE7-C275361FCBBF}|..\\DAY 13\\Static\\Static.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 13\\static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC1766A-27C7-46A4-B2D9-C0890B51FB67}|..\\DAY 13\\privateConstructor\\privateConstructor.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 13\\privateconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA779211-E025-43A6-80D4-5937122FD359}|..\\DAY 13\\Interface\\Interface.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 13\\interface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95AB8EB0-AF2E-415F-A7EA-4B6D22A5ED0D}|..\\DAY 13\\FileHandling\\FileHandling.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 13\\filehandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99541AC7-B3B9-48CB-954E-6D8ED83A0AF5}|..\\DAY 13\\Enum\\Enum.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 13\\enum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D57B84A-CE2E-480A-A9E0-4EBF3564029C}|..\\ImplementationDAY13\\EmployeeManagementSystem_\\EmployeeManagementSystem_.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\implementationday13\\employeemanagementsystem_\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D57B84A-CE2E-480A-A9E0-4EBF3564029C}|..\\ImplementationDAY13\\EmployeeManagementSystem_\\EmployeeManagementSystem_.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\implementationday13\\employeemanagementsystem_\\entities\\types\\employementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D57B84A-CE2E-480A-A9E0-4EBF3564029C}|..\\ImplementationDAY13\\EmployeeManagementSystem_\\EmployeeManagementSystem_.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\implementationday13\\employeemanagementsystem_\\services\\jsonfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D57B84A-CE2E-480A-A9E0-4EBF3564029C}|..\\ImplementationDAY13\\EmployeeManagementSystem_\\EmployeeManagementSystem_.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\implementationday13\\employeemanagementsystem_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D57B84A-CE2E-480A-A9E0-4EBF3564029C}|..\\ImplementationDAY13\\EmployeeManagementSystem_\\EmployeeManagementSystem_.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\implementationday13\\employeemanagementsystem_\\entities\\types\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D57B84A-CE2E-480A-A9E0-4EBF3564029C}|..\\ImplementationDAY13\\EmployeeManagementSystem_\\EmployeeManagementSystem_.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\implementationday13\\employeemanagementsystem_\\services\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 13\\Static1.1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DAY 13\\Static1.1\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 13\\Static1.1\\Program.cs",
+              "RelativeToolTip": "..\\DAY 13\\Static1.1\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:39:21.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 13\\Static\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DAY 13\\Static\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 13\\Static\\Program.cs",
+              "RelativeToolTip": "..\\DAY 13\\Static\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:39:10.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 13\\privateConstructor\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DAY 13\\privateConstructor\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 13\\privateConstructor\\Program.cs",
+              "RelativeToolTip": "..\\DAY 13\\privateConstructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:39:03.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 13\\Interface\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DAY 13\\Interface\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 13\\Interface\\Program.cs",
+              "RelativeToolTip": "..\\DAY 13\\Interface\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:37:46.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 13\\FileHandling\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DAY 13\\FileHandling\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 13\\FileHandling\\Program.cs",
+              "RelativeToolTip": "..\\DAY 13\\FileHandling\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:37:30.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 13\\Enum\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DAY 13\\Enum\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 13\\Enum\\Program.cs",
+              "RelativeToolTip": "..\\DAY 13\\Enum\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:37:10.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ImplementationDAY13\\EmployeeManagementSystem_\\Services\\IStorageService.cs",
+              "RelativeDocumentMoniker": "..\\ImplementationDAY13\\EmployeeManagementSystem_\\Services\\IStorageService.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ImplementationDAY13\\EmployeeManagementSystem_\\Services\\IStorageService.cs",
+              "RelativeToolTip": "..\\ImplementationDAY13\\EmployeeManagementSystem_\\Services\\IStorageService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:09:18.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ImplementationDAY13\\EmployeeManagementSystem_\\Entities\\Types\\Employee.cs",
+              "RelativeDocumentMoniker": "..\\ImplementationDAY13\\EmployeeManagementSystem_\\Entities\\Types\\Employee.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ImplementationDAY13\\EmployeeManagementSystem_\\Entities\\Types\\Employee.cs",
+              "RelativeToolTip": "..\\ImplementationDAY13\\EmployeeManagementSystem_\\Entities\\Types\\Employee.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:09:14.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ImplementationDAY13\\EmployeeManagementSystem_\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ImplementationDAY13\\EmployeeManagementSystem_\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ImplementationDAY13\\EmployeeManagementSystem_\\Program.cs",
+              "RelativeToolTip": "..\\ImplementationDAY13\\EmployeeManagementSystem_\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:08:33.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JsonFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ImplementationDAY13\\EmployeeManagementSystem_\\Services\\JsonFileStorage.cs",
+              "RelativeDocumentMoniker": "..\\ImplementationDAY13\\EmployeeManagementSystem_\\Services\\JsonFileStorage.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ImplementationDAY13\\EmployeeManagementSystem_\\Services\\JsonFileStorage.cs",
+              "RelativeToolTip": "..\\ImplementationDAY13\\EmployeeManagementSystem_\\Services\\JsonFileStorage.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:14:47.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployementType.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ImplementationDAY13\\EmployeeManagementSystem_\\Entities\\Types\\EmployementType.cs",
+              "RelativeDocumentMoniker": "..\\ImplementationDAY13\\EmployeeManagementSystem_\\Entities\\Types\\EmployementType.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ImplementationDAY13\\EmployeeManagementSystem_\\Entities\\Types\\EmployementType.cs",
+              "RelativeToolTip": "..\\ImplementationDAY13\\EmployeeManagementSystem_\\Entities\\Types\\EmployementType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:09:15.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ImplementationDAY13\\EmployeeManagementSystem_\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "..\\ImplementationDAY13\\EmployeeManagementSystem_\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ImplementationDAY13\\EmployeeManagementSystem_\\EmployeeManager.cs",
+              "RelativeToolTip": "..\\ImplementationDAY13\\EmployeeManagementSystem_\\EmployeeManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T10:08:36.411Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

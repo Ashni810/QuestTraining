@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\EmployeeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\EmployeeManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Entities\\Types\\EmploymentType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\Entities\\Types\\EmploymentType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Entities\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\Entities\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Services\\JsonFileStorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\Services\\JsonFileStorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Services\\IStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\Services\\IStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Services\\CustomStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\Services\\CustomStorageService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeeManagement\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 160,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Services\\CustomStorageService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Services\\CustomStorageService.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Services\\CustomStorageService.cs",
+              "RelativeToolTip": "EmployeeManagement\\Services\\CustomStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:13:21.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmploymentType.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Entities\\Types\\EmploymentType.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Entities\\Types\\EmploymentType.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Entities\\Types\\EmploymentType.cs",
+              "RelativeToolTip": "EmployeeManagement\\Entities\\Types\\EmploymentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:13:30.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:10:56.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\EmployeeManager.cs",
+              "RelativeToolTip": "EmployeeManagement\\EmployeeManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:10:26.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Services\\IStorageService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Services\\IStorageService.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Services\\IStorageService.cs",
+              "RelativeToolTip": "EmployeeManagement\\Services\\IStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:18:07.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JsonFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Services\\JsonFileStorage.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Services\\JsonFileStorage.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Services\\JsonFileStorage.cs",
+              "RelativeToolTip": "EmployeeManagement\\Services\\JsonFileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:20:37.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:08:46.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
