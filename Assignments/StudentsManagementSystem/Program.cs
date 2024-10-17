@@ -11,15 +11,13 @@ namespace StudentsManagementSystem
         static void Main(string[] args)
         {
             var sManager = new StudentManager();
-
             while (true)
             {
                 Console.WriteLine("1. Add Student");
                 Console.WriteLine("2. Search Student");
-                Console.WriteLine("3. Update");
-                Console.WriteLine("4. Delete");
+                Console.WriteLine("3. Update Student");
+                Console.WriteLine("4. Delete Student");
                 var option = Console.ReadLine();
-
                 switch (option)
                 {
                     case "1":
@@ -32,10 +30,8 @@ namespace StudentsManagementSystem
                         sManager.Search(RegNumber);
                         break;
                     case "3":
-                        var StudentToUpdate = GetStudentData();
-                        sManager.Update(StudentToUpdate.RegNumber,
-                            StudentToUpdate.StudentName,
-                            StudentToUpdate.Class);
+                        var studentToUpdate = GetStudentData();
+                        sManager.Update(studentToUpdate.RegNumber, studentToUpdate.StudentName, studentToUpdate.Class, studentToUpdate.Marks);
                         break;
                     case "4":
                         Console.Write("Enter the register number to delete: ");
@@ -51,46 +47,36 @@ namespace StudentsManagementSystem
 
         private static Student GetStudentData()
         {
-            Student student = new Student();
+            var student = new Student();
 
             Console.Write("Enter the register number: ");
             student.RegNumber = Console.ReadLine();
-
             Console.Write("Enter the student name: ");
             student.StudentName = Console.ReadLine();
-
             Console.Write("Enter the class: ");
             student.Class = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter Subject 1: ");
-            student.Sub1 = Console.ReadLine();
+            student.Marks = new List<MarkDetail>();
 
-            Console.WriteLine("Enter Obtained Mark: ");
-            student.Mark1 = int.Parse(Console.ReadLine());
+            for (int i = 1; i <= 3; i++)
+            {
+                Console.WriteLine($"Enter Subject {i}: ");
+                var subject = Console.ReadLine();
+                Console.WriteLine("Enter Obtained Mark: ");
+                var obtainedMark = int.Parse(Console.ReadLine());
+                Console.WriteLine("Enter Maximum Mark: ");
+                var maxMark = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter Maximum Mark: ");
-            student.MaxMark1 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Enter Subject2: ");
-            student.Sub2 = Console.ReadLine();
-
-            Console.WriteLine("Enter Obtained Mark: ");
-            student.Mark2 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Enter Maximum Mark: ");
-            student.MaxMark2 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Enter Subject3: ");
-            student.Sub3 = Console.ReadLine();
-
-            Console.WriteLine("Enter Obtained Mark: ");
-            student.Mark3 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Enter Maximum Mark: ");
-            student.MaxMark3 = int.Parse(Console.ReadLine());
+                student.Marks.Add(new MarkDetail
+                {
+                    Subject = subject,
+                    MarkObtained = obtainedMark,
+                    MaxMark = maxMark
+                });
+            }
 
             return student;
-
         }
     }
 }
+

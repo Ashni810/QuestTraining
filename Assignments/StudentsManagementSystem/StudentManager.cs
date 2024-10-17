@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace StudentsManagementSystem
 {
@@ -12,28 +9,29 @@ namespace StudentsManagementSystem
 
         public void Add(Student student)
         {
-            // Check if the same student exists.
             if (GetStudentByRegNumber(student.RegNumber) != null)
             {
                 Console.WriteLine("Student already exists");
                 return;
             }
-
             students.Add(student);
             Console.WriteLine("Added successfully");
         }
 
-        /// <summary>
-        /// This method searches for a student based on the register number.
-        /// </summary>
-        /// <param name="RegNumber">The register number.</param>
         public void Search(string RegNumber)
         {
             var student = GetStudentByRegNumber(RegNumber);
-            Console.WriteLine(student);
+            if (student != null)
+            {
+                Console.WriteLine(student);
+            }
+            else
+            {
+                Console.WriteLine("Student not found");
+            }
         }
 
-        public void Update(string RegNumber, string Name, int Class)
+        public void Update(string RegNumber, string Name, int Class, List<MarkDetail> marks)
         {
             var student = GetStudentByRegNumber(RegNumber);
             if (student == null)
@@ -42,10 +40,9 @@ namespace StudentsManagementSystem
                 return;
             }
 
-            student.RegNumber = RegNumber;
             student.StudentName = Name;
             student.Class = Class;
-
+            student.Marks = marks;
             Console.WriteLine("Updated successfully");
         }
 
@@ -57,14 +54,12 @@ namespace StudentsManagementSystem
                 Console.WriteLine("Student not found");
                 return;
             }
-
             students.Remove(student);
             Console.WriteLine("Deleted successfully");
         }
 
         private Student GetStudentByRegNumber(string RegNumber)
         {
-            // Check if the same student exists.
             foreach (var student in students)
             {
                 if (student.RegNumber == RegNumber)
