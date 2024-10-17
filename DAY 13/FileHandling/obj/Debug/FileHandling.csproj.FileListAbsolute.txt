@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\FileHandling\obj\Debug\FileHandling.pdb

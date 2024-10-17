@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Enum\bin\Debug\Enum.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Enum\bin\Debug\Enum.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Enum\bin\Debug\Enum.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Enum\obj\Debug\Enum.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Enum\obj\Debug\Enum.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Enum\obj\Debug\Enum.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Enum\obj\Debug\Enum.pdb

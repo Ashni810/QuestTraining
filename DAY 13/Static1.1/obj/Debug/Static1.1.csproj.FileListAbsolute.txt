@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Static1.1\bin\Debug\Static1.1.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Static1.1\bin\Debug\Static1.1.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Static1.1\bin\Debug\Static1.1.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Static1.1\obj\Debug\Static1.1.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Static1.1\obj\Debug\Static1.1.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Static1.1\obj\Debug\Static1.1.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 13\Static1.1\obj\Debug\Static1.1.pdb
