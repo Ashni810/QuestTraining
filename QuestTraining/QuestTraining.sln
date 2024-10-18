@@ -209,6 +209,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q15VirtualMakeSound", "..\A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q16VirtualCalculateBonus", "..\Assignments\DAY14\Q16\Q16VirtualCalculateBonus.csproj", "{F1BCAF26-EF89-4341-9804-FE5F30B93A49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionDelegate", "..\DAY 14\FunctionDelegate\FunctionDelegate.csproj", "{D42CFD21-2CA9-4A84-9FB3-74ADB4B86E47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -555,6 +557,10 @@ Global
 		{F1BCAF26-EF89-4341-9804-FE5F30B93A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1BCAF26-EF89-4341-9804-FE5F30B93A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1BCAF26-EF89-4341-9804-FE5F30B93A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D42CFD21-2CA9-4A84-9FB3-74ADB4B86E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42CFD21-2CA9-4A84-9FB3-74ADB4B86E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42CFD21-2CA9-4A84-9FB3-74ADB4B86E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42CFD21-2CA9-4A84-9FB3-74ADB4B86E47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -647,6 +653,7 @@ Global
 		{00B3EC0B-D488-4FB7-A1AB-D518C798A71B} = {33D97502-7E1D-47FF-A03E-0E5C63DAAD0B}
 		{F19B07CE-D553-475A-873D-4D55A057AFE6} = {33D97502-7E1D-47FF-A03E-0E5C63DAAD0B}
 		{F1BCAF26-EF89-4341-9804-FE5F30B93A49} = {33D97502-7E1D-47FF-A03E-0E5C63DAAD0B}
+		{D42CFD21-2CA9-4A84-9FB3-74ADB4B86E47} = {B5B6AB36-2A17-471E-A13C-3386F813C57E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F094249-8A72-465B-80C8-6649B7F52369}
