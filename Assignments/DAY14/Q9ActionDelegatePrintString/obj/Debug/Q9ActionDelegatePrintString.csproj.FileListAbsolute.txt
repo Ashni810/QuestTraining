@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\Q9ActionDelegatePrintString\bin\Debug\Q9ActionDelegatePrintString.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\Q9ActionDelegatePrintString\bin\Debug\Q9ActionDelegatePrintString.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\Q9ActionDelegatePrintString\bin\Debug\Q9ActionDelegatePrintString.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\Q9ActionDelegatePrintString\obj\Debug\Q9ActionDelegatePrintString.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\Q9ActionDelegatePrintString\obj\Debug\Q9ActionDelegatePrintString.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\Q9ActionDelegatePrintString\obj\Debug\Q9ActionDelegatePrintString.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\Q9ActionDelegatePrintString\obj\Debug\Q9ActionDelegatePrintString.pdb

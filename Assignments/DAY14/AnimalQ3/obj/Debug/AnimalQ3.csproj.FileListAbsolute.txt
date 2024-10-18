@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\AnimalQ3\bin\Debug\AnimalQ3.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\AnimalQ3\bin\Debug\AnimalQ3.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\AnimalQ3\bin\Debug\AnimalQ3.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\AnimalQ3\obj\Debug\AnimalQ3.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\AnimalQ3\obj\Debug\AnimalQ3.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\AnimalQ3\obj\Debug\AnimalQ3.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\AnimalQ3\obj\Debug\AnimalQ3.pdb

@@ -1,0 +1,61 @@
+1: Define an abstract class called Shape with an abstract method Area(). Create two derived classes Circle and Rectangle that implement the Area() method for calculating the area of the respective shapes.
+
+
+
+2: Create an abstract class Vehicle with a property Speed and an abstract method Drive(). Implement the Drive() method in two derived classes Car and Bicycle.
+
+
+
+3: Create an interface IAnimal with a method Speak(). Implement the interface in two classes Dog and Cat, each providing their own implementation of Speak().
+
+
+
+4: Write an interface ICalculator that has methods Add(int a, int b) and Subtract(int a, int b). Implement this interface in a SimpleCalculator class.
+
+
+
+5: Define a delegate Operation that takes two integers as parameters. Write methods Add and Multiply that match this delegate signature. Demonstrate how to use the delegate to call these methods.
+
+
+
+6: Create a delegate PrintMessage that takes a string as a parameter. Write a method DisplayMessage that prints the string passed to it. Use the delegate to call DisplayMessage.
+
+
+
+7: Define a Func<int, int, int> delegate that takes two integers as parameters and returns their sum.
+
+
+
+8: Write a Func<string, int> delegate that takes a string as input and returns the length of the string.
+
+
+
+9: Define an Action<string> delegate that prints a string to the console. Use this delegate to call a method that prints a welcome message.
+
+
+
+10: Create an Action<int, int> delegate that takes two integers and prints their sum.
+
+
+
+11: Write a Predicate<int> that checks if a given integer is even.
+
+
+
+12: Create a Predicate<string> that checks if a given string starts with the letter 'A'.
+
+
+
+13: Define an abstract class Appliance with an abstract method TurnOn(). Create a derived class Fan that implements the TurnOn() method.
+
+
+
+14: Create an abstract class Person with an abstract method Work(). Implement Work() in derived classes Doctor and Engineer to describe their specific jobs.
+
+
+
+15: Write a class Animal with a virtual method MakeSound(). Create a derived class Dog that overrides MakeSound() to print "Bark!".
+
+
+
+16: Create a base class Employee with a virtual method CalculateBonus(). In the derived class Manager, override CalculateBonus() to provide a custom calculation.

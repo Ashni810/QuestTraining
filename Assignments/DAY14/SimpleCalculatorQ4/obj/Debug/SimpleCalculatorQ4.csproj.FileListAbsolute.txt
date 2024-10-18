@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\SimpleCalculatorQ4\bin\Debug\SimpleCalculatorQ4.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\SimpleCalculatorQ4\bin\Debug\SimpleCalculatorQ4.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\SimpleCalculatorQ4\bin\Debug\SimpleCalculatorQ4.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\SimpleCalculatorQ4\obj\Debug\SimpleCalculatorQ4.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\SimpleCalculatorQ4\obj\Debug\SimpleCalculatorQ4.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\SimpleCalculatorQ4\obj\Debug\SimpleCalculatorQ4.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\SimpleCalculatorQ4\obj\Debug\SimpleCalculatorQ4.pdb

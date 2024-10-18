@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\PredicateDelegateCheckBasedOnTheCondition\bin\Debug\PredicateDelegateCheckBasedOnTheCondition.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\PredicateDelegateCheckBasedOnTheCondition\bin\Debug\PredicateDelegateCheckBasedOnTheCondition.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\PredicateDelegateCheckBasedOnTheCondition\bin\Debug\PredicateDelegateCheckBasedOnTheCondition.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\PredicateDelegateCheckBasedOnTheCondition\obj\Debug\PredicateDelegateCheckBasedOnTheCondition.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\PredicateDelegateCheckBasedOnTheCondition\obj\Debug\PredicateDelegateCheckBasedOnTheCondition.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\PredicateDelegateCheckBasedOnTheCondition\obj\Debug\PredicateDelegateCheckBasedOnTheCondition.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\PredicateDelegateCheckBasedOnTheCondition\obj\Debug\PredicateDelegateCheckBasedOnTheCondition.pdb

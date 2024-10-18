@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\DelegateOperation\bin\Debug\DelegateOperation.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\DelegateOperation\bin\Debug\DelegateOperation.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\DelegateOperation\bin\Debug\DelegateOperation.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\DelegateOperation\obj\Debug\DelegateOperationQ6.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\DelegateOperation\obj\Debug\DelegateOperationQ6.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\DelegateOperation\obj\Debug\DelegateOperation.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\DelegateOperation\obj\Debug\DelegateOperation.pdb
