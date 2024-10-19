@@ -3,7 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\QuestTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0509287-2967-4A87-886F-72179297BE06}|..\\DAY 14\\Abstraction\\Abstraction.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 14\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0562957-A7C6-4B61-B310-32CBBE086E64}|..\\DAY 14\\BookManagementSystem\\BookManagementSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 14\\bookmanagementsystem\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0562957-A7C6-4B61-B310-32CBBE086E64}|..\\DAY 14\\BookManagementSystem\\BookManagementSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 14\\bookmanagementsystem\\services\\jsonfilestorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0562957-A7C6-4B61-B310-32CBBE086E64}|..\\DAY 14\\BookManagementSystem\\BookManagementSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 14\\bookmanagementsystem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0562957-A7C6-4B61-B310-32CBBE086E64}|..\\DAY 14\\BookManagementSystem\\BookManagementSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 14\\bookmanagementsystem\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0562957-A7C6-4B61-B310-32CBBE086E64}|..\\DAY 14\\BookManagementSystem\\BookManagementSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 14\\bookmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0562957-A7C6-4B61-B310-32CBBE086E64}|..\\DAY 14\\BookManagementSystem\\BookManagementSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 14\\bookmanagementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0562957-A7C6-4B61-B310-32CBBE086E64}|..\\DAY 14\\BookManagementSystem\\BookManagementSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 14\\bookmanagementsystem\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0562957-A7C6-4B61-B310-32CBBE086E64}|..\\DAY 14\\BookManagementSystem\\BookManagementSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 14\\bookmanagementsystem\\services\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0562957-A7C6-4B61-B310-32CBBE086E64}|..\\DAY 14\\BookManagementSystem\\BookManagementSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 14\\bookmanagementsystem\\entities\\types\\booktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,20 +37,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\Abstraction\\Program.cs",
-              "RelativeDocumentMoniker": "..\\DAY 14\\Abstraction\\Program.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\Abstraction\\Program.cs",
-              "RelativeToolTip": "..\\DAY 14\\Abstraction\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "..\\DAY 14\\BookManagementSystem\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\Entities\\Book.cs",
+              "RelativeToolTip": "..\\DAY 14\\BookManagementSystem\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T15:00:03.464Z",
+              "WhenOpened": "2024-10-19T14:09:48.044Z",
+              "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\App.config",
+              "RelativeDocumentMoniker": "..\\DAY 14\\BookManagementSystem\\App.config",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\App.config",
+              "RelativeToolTip": "..\\DAY 14\\BookManagementSystem\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-19T15:52:02.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DAY 14\\BookManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\Program.cs",
+              "RelativeToolTip": "..\\DAY 14\\BookManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:09:39.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\packages.config",
+              "RelativeDocumentMoniker": "..\\DAY 14\\BookManagementSystem\\packages.config",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\packages.config",
+              "RelativeToolTip": "..\\DAY 14\\BookManagementSystem\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-19T15:52:26.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\DAY 14\\BookManagementSystem\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\DAY 14\\BookManagementSystem\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:52:11.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JsonFileStorage.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\Services\\JsonFileStorage.cs",
+              "RelativeDocumentMoniker": "..\\DAY 14\\BookManagementSystem\\Services\\JsonFileStorage.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\Services\\JsonFileStorage.cs",
+              "RelativeToolTip": "..\\DAY 14\\BookManagementSystem\\Services\\JsonFileStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:46:16.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookManager.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\BookManager.cs",
+              "RelativeDocumentMoniker": "..\\DAY 14\\BookManagementSystem\\BookManager.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\BookManager.cs",
+              "RelativeToolTip": "..\\DAY 14\\BookManagementSystem\\BookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:15:19.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookType.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\Entities\\Types\\BookType.cs",
+              "RelativeDocumentMoniker": "..\\DAY 14\\BookManagementSystem\\Entities\\Types\\BookType.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\Entities\\Types\\BookType.cs",
+              "RelativeToolTip": "..\\DAY 14\\BookManagementSystem\\Entities\\Types\\BookType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:09:51.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\Services\\IStorageService.cs",
+              "RelativeDocumentMoniker": "..\\DAY 14\\BookManagementSystem\\Services\\IStorageService.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 14\\BookManagementSystem\\Services\\IStorageService.cs",
+              "RelativeToolTip": "..\\DAY 14\\BookManagementSystem\\Services\\IStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T14:09:42.913Z"
             }
           ]
         }

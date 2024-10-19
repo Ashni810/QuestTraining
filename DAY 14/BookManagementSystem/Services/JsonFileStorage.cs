@@ -8,5 +8,6 @@ namespace BookManagementSystem.Services
 {
     internal class JsonFileStorage
     {
+        public JsonFileStorage() { }
     }
 }

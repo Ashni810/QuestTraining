@@ -4,8 +4,9 @@
     "\\EmployeeManagement",
     "\\EmployeeManagement\\Entities",
     "\\EmployeeManagement\\Entities\\Types",
+    "\\EmployeeManagement\\Services",
     "\\packages"
   ],
-  "SelectedNode": "\\EmployeeManagement\\Entities\\Types\\EmploymentType.cs",
+  "SelectedNode": "\\EmployeeManagement\\Services\\JsonFileStorage.cs",
   "PreviewInSolutionExplorer": false
 }

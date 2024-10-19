@@ -11,12 +11,13 @@ namespace BookManagementSystem.Entities
     {
         public string Id { get; set; }
         public string BookName { get; set; }
-        public int AuthorName { get; set; }
+        public string AuthorName { get; set; }
+        public decimal Price{ get; set; }
         public BookType BookType { get; set; }
 
         public override string ToString()
         {
-            return $"{BookName} {AuthorName})";
+            return $"{BookName} {AuthorName} {Price}";
         }
 
     }

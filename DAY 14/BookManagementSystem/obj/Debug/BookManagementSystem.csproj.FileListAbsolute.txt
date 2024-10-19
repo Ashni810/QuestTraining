@@ -1,0 +1,10 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\BookManagementSystem\bin\Debug\BookManagementSystem.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\BookManagementSystem\bin\Debug\BookManagementSystem.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\BookManagementSystem\bin\Debug\BookManagementSystem.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\BookManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\BookManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\BookManagementSystem\obj\Debug\BookManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\BookManagementSystem\obj\Debug\BookManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\BookManagementSystem\obj\Debug\BookMana.B9279241.Up2Date
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\BookManagementSystem\obj\Debug\BookManagementSystem.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 14\BookManagementSystem\obj\Debug\BookManagementSystem.pdb

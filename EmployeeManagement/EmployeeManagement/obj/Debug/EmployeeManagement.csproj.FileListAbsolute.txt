@@ -8,3 +8,13 @@ C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\Emplo
 C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\Newtonsoft.Json.dll
 C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\bin\Debug\Newtonsoft.Json.xml
 C:\Users\user\source\repos\EmployeeManagement\EmployeeManagement\obj\Debug\Employee.61744648.Up2Date
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\EmployeeManagement\EmployeeManagement\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\EmployeeManagement\EmployeeManagement\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\EmployeeManagement\EmployeeManagement\obj\Debug\Employee.61744648.Up2Date
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
