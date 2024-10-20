@@ -1,19 +1,16 @@
-﻿using BookManagementSystem;
+﻿using System;
+using Newtonsoft.Json;
+using BookManagementSystem.Entities;
+using BookManagementSystem.Entities.Types;
 using BookManagementSystem.Services;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace BookManagementSystem
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            var storageService = new JsonFileStorage();
-            var bookManager= new BookManager((IStorageService)storageService);
+            IStorageService storageService = new JsonFileStorage();
+            BookManager bookManager = new BookManager(storageService);
             bookManager.Run();
         }
     }

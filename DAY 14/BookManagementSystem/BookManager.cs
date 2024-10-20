@@ -22,7 +22,11 @@ namespace BookManagementSystem
         public void Add()
         {
             var book = new Book();
-            book.Id = Guid.NewGuid().ToString();
+            Console.WriteLine("Enter the Book Id :");
+
+            book.Id = Console.ReadLine();
+
+            book.Id =Guid.NewGuid().ToString();
 
             Console.Write(" Enter the Book Name: ");
             book.BookName = Console.ReadLine();
@@ -30,10 +34,10 @@ namespace BookManagementSystem
             Console.Write("Enter the Author Name: ");
             book.AuthorName = Console.ReadLine();
 
-            Console.WriteLine("Email: ");
+            Console.WriteLine("Enter the Price: ");
             book.Price = decimal.Parse (Console.ReadLine());
 
-            Console.Write("Book Type: 1. Novel 2. ShortStory 2.Poems : ");
+            Console.Write("Book Type: 1. Novel 2. ShortStory 3.Poems : ");
             var bookType = Console.ReadLine();
             book.BookType = bookType == "1" ? BookType.Novel : bookType == "2" ? BookType.ShortStory : BookType.Poem;
 

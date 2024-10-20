@@ -5,8 +5,10 @@
     "\\EmployeeManagement\\Entities",
     "\\EmployeeManagement\\Entities\\Types",
     "\\EmployeeManagement\\Services",
-    "\\packages"
+    "\\packages",
+    "\\packages\\Newtonsoft.Json.13.0.3",
+    "\\packages\\Newtonsoft.Json.13.0.3\\lib"
   ],
-  "SelectedNode": "\\EmployeeManagement\\Services\\JsonFileStorage.cs",
+  "SelectedNode": "\\EmployeeManagement\\Services\\IStorageService.cs",
   "PreviewInSolutionExplorer": false
 }
