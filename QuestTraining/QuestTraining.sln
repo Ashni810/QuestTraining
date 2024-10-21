@@ -187,7 +187,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q4SimpleCalculator", "..\As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q5DelegateOperatio", "..\Assignments\DAY14\DelegateOperation\Q5DelegateOperatio.csproj", "{0298B03C-09FC-4D6E-8979-45C81D5418B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q6DelegateMessage", "..\DAY 14\DelegateMessage\Q6DelegateMessage.csproj", "{2148B85A-4753-49AE-8331-1CD5BAA0EE7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q6DelegateMessages", "..\DAY 14\DelegateMessage\Q6DelegateMessages.csproj", "{2148B85A-4753-49AE-8331-1CD5BAA0EE7D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q7FunctionDelegate", "..\Assignments\DAY14\FunctionDelegateQ7\Q7FunctionDelegate.csproj", "{B9EEF2EA-3F3B-461A-9248-0BEE483EC6CB}"
 EndProject

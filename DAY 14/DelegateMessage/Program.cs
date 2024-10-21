@@ -14,7 +14,7 @@ namespace DelegateMessage
         static void Main(string[] args)
         {
             PrintMessage message = DisplayMessage;
-            message("Hello guys...");
+            message("Hello guys......");
         }
     }
 }
