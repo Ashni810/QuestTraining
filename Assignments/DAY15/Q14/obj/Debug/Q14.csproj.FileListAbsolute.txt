@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\Q14\bin\Debug\Q14.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\Q14\bin\Debug\Q14.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\Q14\bin\Debug\Q14.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\Q14\obj\Debug\Q14.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\Q14\obj\Debug\Q14.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\Q14\obj\Debug\Q14.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\Q14\obj\Debug\Q14.pdb

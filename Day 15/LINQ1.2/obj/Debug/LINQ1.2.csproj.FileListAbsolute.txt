@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\LINQ1.2\bin\Debug\LINQ1.2.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\LINQ1.2\bin\Debug\LINQ1.2.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\LINQ1.2\bin\Debug\LINQ1.2.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\LINQ1.2\obj\Debug\LINQ1.2.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\LINQ1.2\obj\Debug\LINQ1.2.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\LINQ1.2\obj\Debug\LINQ1.2.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\LINQ1.2\obj\Debug\LINQ1.2.pdb

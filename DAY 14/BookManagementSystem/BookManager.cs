@@ -40,6 +40,7 @@ namespace BookManagementSystem
             Console.Write("Book Type: 1. Novel 2. ShortStory 3.Poems : ");
             var bookType = Console.ReadLine();
             book.BookType = bookType == "1" ? BookType.Novel : bookType == "2" ? BookType.ShortStory : BookType.Poem;
+            Console.WriteLine("Bood Detailes Added Sucessfully");
 
 
             _storageService.Save(book);
@@ -49,7 +50,7 @@ namespace BookManagementSystem
         {
             Console.Write("Enter the Book id: ");
             var id = Console.ReadLine();
-            _storageService.Delete(id);
+           _storageService.Delete(id);
         }
 
         public void Search()

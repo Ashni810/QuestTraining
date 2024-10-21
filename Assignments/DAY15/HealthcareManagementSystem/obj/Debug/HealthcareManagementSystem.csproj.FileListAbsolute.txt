@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\HealthcareManagementSystem\bin\Debug\HealthcareManagementSystem.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\HealthcareManagementSystem\bin\Debug\HealthcareManagementSystem.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\HealthcareManagementSystem\bin\Debug\HealthcareManagementSystem.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\HealthcareManagementSystem\obj\Debug\HealthcareManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\HealthcareManagementSystem\obj\Debug\HealthcareManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\HealthcareManagementSystem\obj\Debug\HealthcareManagementSystem.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY15\HealthcareManagementSystem\obj\Debug\HealthcareManagementSystem.pdb
