@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\IntExtentionMethod\bin\Debug\IntExtentionMethod.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\IntExtentionMethod\bin\Debug\IntExtentionMethod.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\IntExtentionMethod\bin\Debug\IntExtentionMethod.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\IntExtentionMethod\obj\Debug\IntExtentionMethod.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\IntExtentionMethod\obj\Debug\IntExtentionMethod.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\IntExtentionMethod\obj\Debug\IntExtentionMethod.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\IntExtentionMethod\obj\Debug\IntExtentionMethod.pdb

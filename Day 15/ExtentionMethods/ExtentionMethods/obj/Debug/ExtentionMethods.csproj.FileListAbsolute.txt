@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\ExtentionMethods\bin\Debug\ExtentionMethods.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\ExtentionMethods\bin\Debug\ExtentionMethods.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\ExtentionMethods\bin\Debug\ExtentionMethods.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\ExtentionMethods\obj\Debug\ExtentionMethods.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\ExtentionMethods\obj\Debug\ExtentionMethods.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\ExtentionMethods\obj\Debug\ExtentionMethods.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 15\ExtentionMethods\ExtentionMethods\obj\Debug\ExtentionMethods.pdb

@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Joins
 {
@@ -20,8 +18,6 @@ namespace Joins
         public int ToAccountId { get; set; }
         public decimal Amount { get; set; }
         public DateTime DateAndTime { get; set; }
-
-      
     }
 
     internal class Program
@@ -43,13 +39,24 @@ namespace Joins
                 new Transaction { Id = 3, FromAccountId = 103, ToAccountId = 104, Amount = 700, DateAndTime = DateTime.Now.AddDays(-3) },
                 new Transaction { Id = 4, FromAccountId = 101, ToAccountId = 102, Amount = 200, DateAndTime = DateTime.Now.AddDays(-4) }
             };
-            var transcationDetails = Transaction
-                .join(
-                  accounts,
-                  t => t.From
-                )
-                
-           
+
+            var tr = from transaction in transactions
+                     join fromAccount in accounts on transaction.FromAccountId equals fromAccount.Id
+                     join toAccount in accounts on transaction.ToAccountId equals toAccount.Id
+                     select new
+                     {
+                         transaction.Id,
+                         FromAccountName = fromAccount.Name,
+                         ToAccountName = toAccount.Name,
+                         transaction.Amount,
+                         transaction.DateAndTime
+                     };
+
+            // Display the result
+            foreach (var item in tr)
+            {
+                Console.WriteLine($"Rupees {item.Amount} transaction done from {item.FromAccountName} to {item.ToAccountName} on {item.DateAndTime}");
+            }
         }
     }
 }
