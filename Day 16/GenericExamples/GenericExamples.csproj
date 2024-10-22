@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4C069004-80EF-4268-95DC-1EE90D4EFCFC}</ProjectGuid>
+    <ProjectGuid>{86DF11AF-7888-4E40-8571-B4226E98073F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BooksManagment</RootNamespace>
-    <AssemblyName>BooksManagment</AssemblyName>
+    <RootNamespace>GenericExamples</RootNamespace>
+    <AssemblyName>GenericExamples</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Book.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
