@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\LibraryManagment\obj\Debug\LibraryManagment.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\LibraryManagment\obj\Debug\LibraryManagment.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\LibraryManagment\bin\Debug\LibraryManagment.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\LibraryManagment\bin\Debug\LibraryManagment.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\LibraryManagment\bin\Debug\LibraryManagment.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\LibraryManagment\obj\Debug\LibraryManagment.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\LibraryManagment\obj\Debug\LibraryManagment.pdb

@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\ContactManagment\obj\Debug\ContactManagment.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\ContactManagment\obj\Debug\ContactManagment.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\ContactManagment\bin\Debug\ContactManagment.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\ContactManagment\bin\Debug\ContactManagment.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\ContactManagment\bin\Debug\ContactManagment.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\ContactManagment\obj\Debug\ContactManagment.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\ContactManagment\obj\Debug\ContactManagment.pdb

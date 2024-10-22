@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\Shapes\bin\Debug\Shapes.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\Shapes\bin\Debug\Shapes.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\Shapes\obj\Debug\Shapes.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\Shapes\obj\Debug\Shapes.pdb

@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\DictionTypeGeneric\bin\Debug\DictionTypeGeneric.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\DictionTypeGeneric\bin\Debug\DictionTypeGeneric.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\DictionTypeGeneric\bin\Debug\DictionTypeGeneric.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\DictionTypeGeneric\obj\Debug\DictionTypeGeneric.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\DictionTypeGeneric\obj\Debug\DictionTypeGeneric.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\DictionTypeGeneric\obj\Debug\DictionTypeGeneric.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 16\DictionTypeGeneric\obj\Debug\DictionTypeGeneric.pdb
