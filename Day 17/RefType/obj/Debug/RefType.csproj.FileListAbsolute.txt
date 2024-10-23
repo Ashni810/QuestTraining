@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\RefType\bin\Debug\RefType.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\RefType\bin\Debug\RefType.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\RefType\bin\Debug\RefType.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\RefType\obj\Debug\RefType.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\RefType\obj\Debug\RefType.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\RefType\obj\Debug\RefType.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\RefType\obj\Debug\RefType.pdb

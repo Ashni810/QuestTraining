@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\outType\bin\Debug\outType.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\outType\bin\Debug\outType.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\outType\bin\Debug\outType.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\outType\obj\Debug\outType.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\outType\obj\Debug\outType.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\outType\obj\Debug\outType.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 17\outType\obj\Debug\outType.pdb

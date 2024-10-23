@@ -3,19 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\QuestTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA2D170B-F3C7-49D0-8C92-AF8D3DCA18D7}|..\\Assignments\\DAY15\\Q20\\Q20.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\assignments\\day15\\q20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B78CDABF-CCDB-4EDA-9B36-4D712806EC1E}|..\\Day 16\\ContactManagment\\ContactManagment.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 16\\contactmanagment\\contactmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B78CDABF-CCDB-4EDA-9B36-4D712806EC1E}|..\\Day 16\\ContactManagment\\ContactManagment.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 16\\contactmanagment\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B78CDABF-CCDB-4EDA-9B36-4D712806EC1E}|..\\Day 16\\ContactManagment\\ContactManagment.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 16\\contactmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4C069004-80EF-4268-95DC-1EE90D4EFCFC}|..\\Day 16\\BooksManagment\\BooksManagment.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 16\\booksmanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C34F3FF-5C8E-40CF-B969-0784D90A47EB}|..\\Day 17\\Indexer\\Indexer.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 17\\indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,65 +23,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assignments\\DAY15\\Q20\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Assignments\\DAY15\\Q20\\Program.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assignments\\DAY15\\Q20\\Program.cs*",
-              "RelativeToolTip": "..\\Assignments\\DAY15\\Q20\\Program.cs*",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 17\\Indexer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day 17\\Indexer\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 17\\Indexer\\Program.cs",
+              "RelativeToolTip": "..\\Day 17\\Indexer\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:18:39.123Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\ContactManagment\\Contact.cs",
-              "RelativeDocumentMoniker": "..\\Day 16\\ContactManagment\\Contact.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\ContactManagment\\Contact.cs",
-              "RelativeToolTip": "..\\Day 16\\ContactManagment\\Contact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:16:59.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContactManager.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\ContactManagment\\ContactManager.cs",
-              "RelativeDocumentMoniker": "..\\Day 16\\ContactManagment\\ContactManager.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\ContactManagment\\ContactManager.cs",
-              "RelativeToolTip": "..\\Day 16\\ContactManagment\\ContactManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:16:58.281Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\ContactManagment\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 16\\ContactManagment\\Program.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\ContactManagment\\Program.cs",
-              "RelativeToolTip": "..\\Day 16\\ContactManagment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:16:57.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\BooksManagment\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 16\\BooksManagment\\Program.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 16\\BooksManagment\\Program.cs",
-              "RelativeToolTip": "..\\Day 16\\BooksManagment\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T16:06:04.008Z",
+              "WhenOpened": "2024-10-23T09:22:13.486Z",
               "EditorCaption": ""
             }
           ]

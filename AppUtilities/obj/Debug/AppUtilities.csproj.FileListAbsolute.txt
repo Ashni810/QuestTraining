@@ -1,0 +1,6 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\AppUtilities\bin\Debug\AppUtilities.dll
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\AppUtilities\bin\Debug\AppUtilities.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\AppUtilities\obj\Debug\AppUtilities.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\AppUtilities\obj\Debug\AppUtilities.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\AppUtilities\obj\Debug\AppUtilities.dll
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\AppUtilities\obj\Debug\AppUtilities.pdb
