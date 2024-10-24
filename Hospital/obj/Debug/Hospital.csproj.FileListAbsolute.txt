@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Hospital\bin\Debug\Hospital.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Hospital\bin\Debug\Hospital.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Hospital\obj\Debug\Hospital.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Hospital\obj\Debug\Hospital.pdb
