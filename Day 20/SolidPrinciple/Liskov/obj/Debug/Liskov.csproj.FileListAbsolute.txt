@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\Liskov\bin\Debug\Liskov.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\Liskov\bin\Debug\Liskov.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\Liskov\bin\Debug\Liskov.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\Liskov\obj\Debug\Liskov.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\Liskov\obj\Debug\Liskov.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\Liskov\obj\Debug\Liskov.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\Liskov\obj\Debug\Liskov.pdb

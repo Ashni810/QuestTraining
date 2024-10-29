@@ -1,0 +1,11 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\PatientLogin\bin\Debug\PatientLogin.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\PatientLogin\bin\Debug\PatientLogin.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\PatientLogin\bin\Debug\PatientLogin.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\PatientLogin\bin\Debug\log4net.dll
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\PatientLogin\bin\Debug\log4net.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\PatientLogin\bin\Debug\log4net.xml
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\PatientLogin\obj\Debug\PatientLogin.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\PatientLogin\obj\Debug\PatientLogin.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\PatientLogin\obj\Debug\PatientL.62CA2674.Up2Date
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\PatientLogin\obj\Debug\PatientLogin.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\PatientLogin\obj\Debug\PatientLogin.pdb

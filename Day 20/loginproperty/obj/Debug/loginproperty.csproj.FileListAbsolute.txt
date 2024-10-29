@@ -1,0 +1,11 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\loginproperty\bin\Debug\loginproperty.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\loginproperty\bin\Debug\loginproperty.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\loginproperty\bin\Debug\loginproperty.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\loginproperty\bin\Debug\log4net.dll
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\loginproperty\bin\Debug\log4net.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\loginproperty\bin\Debug\log4net.xml
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\loginproperty\obj\Debug\loginproperty.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\loginproperty\obj\Debug\loginproperty.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\loginproperty\obj\Debug\loginpro.E02D83CB.Up2Date
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\loginproperty\obj\Debug\loginproperty.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\loginproperty\obj\Debug\loginproperty.pdb

@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\MindSweaping\obj\Debug\MineSweaping.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\MindSweaping\obj\Debug\MineSweaping.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\MindSweaping\obj\Debug\MindSweaping.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\MindSweaping\obj\Debug\MindSweaping.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\MindSweaping\bin\Debug\MindSweaping.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\MindSweaping\bin\Debug\MindSweaping.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\MindSweaping\bin\Debug\MindSweaping.pdb

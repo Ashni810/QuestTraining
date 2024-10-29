@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Criket\bin\Debug\Criket.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Criket\bin\Debug\Criket.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Criket\bin\Debug\Criket.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Criket\obj\Debug\Criket.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Criket\obj\Debug\Criket.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Criket\obj\Debug\Criket.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Criket\obj\Debug\Criket.pdb

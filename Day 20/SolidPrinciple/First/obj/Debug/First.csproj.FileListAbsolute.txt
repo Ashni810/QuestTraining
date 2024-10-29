@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\First\bin\Debug\First.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\First\bin\Debug\First.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\First\bin\Debug\First.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\First\obj\Debug\First.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\First\obj\Debug\First.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\SolidPrinciple\First\obj\Debug\First.pdb

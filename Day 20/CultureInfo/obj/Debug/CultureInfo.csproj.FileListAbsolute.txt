@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\CultureInfo\bin\Debug\CultureInfo.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\CultureInfo\bin\Debug\CultureInfo.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\CultureInfo\bin\Debug\CultureInfo.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\CultureInfo\obj\Debug\CultureInfo.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\CultureInfo\obj\Debug\CultureInfo.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\CultureInfo\obj\Debug\CultureInfo.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\CultureInfo\obj\Debug\CultureInfo.pdb

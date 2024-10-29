@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Debug\bin\Debug\Debug.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Debug\bin\Debug\Debug.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Debug\bin\Debug\Debug.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Debug\obj\Debug\Debug.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Debug\obj\Debug\Debug.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Debug\obj\Debug\Debug.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 19\Debug\obj\Debug\Debug.pdb

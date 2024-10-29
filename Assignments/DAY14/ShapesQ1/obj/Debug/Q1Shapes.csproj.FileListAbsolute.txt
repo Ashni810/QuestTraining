@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\ShapesQ1\bin\Debug\ShapesQ1.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\ShapesQ1\bin\Debug\ShapesQ1.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\ShapesQ1\bin\Debug\ShapesQ1.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\ShapesQ1\obj\Debug\Q1Shapes.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\ShapesQ1\obj\Debug\Q1Shapes.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\ShapesQ1\obj\Debug\ShapesQ1.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assignments\DAY14\ShapesQ1\obj\Debug\ShapesQ1.pdb

@@ -7,7 +7,9 @@ using System.Xml.Schema;
 
 namespace ShapesQ1
 {
-       public abstract class Shape
+    internal class Program
+    {
+        public abstract class Shape
         {
             public abstract double Area();
         }
@@ -45,8 +47,7 @@ namespace ShapesQ1
             }
         }
 
-        internal class Program
-        {
+     
             static void Main(string[] args)
             {
                 Circle circle = new Circle(5);

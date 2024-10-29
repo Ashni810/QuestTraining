@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\E-CommerceCartManagment\bin\Debug\E-CommerceCartManagment.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\E-CommerceCartManagment\bin\Debug\E-CommerceCartManagment.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\E-CommerceCartManagment\bin\Debug\E-CommerceCartManagment.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\E-CommerceCartManagment\obj\Debug\E-CommerceCartManagment.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\E-CommerceCartManagment\obj\Debug\E-CommerceCartManagment.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\E-CommerceCartManagment\obj\Debug\E-CommerceCartManagment.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 20\E-CommerceCartManagment\obj\Debug\E-CommerceCartManagment.pdb
