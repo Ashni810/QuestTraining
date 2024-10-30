@@ -9,8 +9,8 @@ namespace E_CommerceCartManagment
 {
     public class Cart
     {
-        public List<CartItem> Items { get; } = new List<CartItem>();
-        public List<Discount> Discounts { get; } = new List<Discount>();
+        public List<CartItem> Items  = new List<CartItem>();
+        public List<Discount> Discounts  = new List<Discount>();
 
         public void AddItem(CartItem item)
         {
@@ -22,7 +22,7 @@ namespace E_CommerceCartManagment
             var item = Items.FirstOrDefault(i => i.Name == name);
             if (item != null)
             {
-                item.Quantity = quantity;
+                item.Quantity += quantity;
             }
             else
             {

@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\EchoClient\bin\Debug\EchoClient.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\EchoClient\bin\Debug\EchoClient.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\EchoClient\bin\Debug\EchoClient.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\EchoClient\obj\Debug\EchoClient.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\EchoClient\obj\Debug\EchoClient.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\EchoClient\obj\Debug\EchoClient.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\EchoClient\obj\Debug\EchoClient.pdb

@@ -22,8 +22,8 @@ namespace E_CommerceCartManagment
 
             // Update an item
             cart.UpdateItem("Apple", 5); // Change quantity of apples to 5
-            cart.UpdateItem("Banana", 4);  // Change quantity of apples to 5
-            cart.UpdateItem("Berry", 4);
+            cart.UpdateItem("Banana", 14);  // Change quantity of apples to 5
+            cart.UpdateItem("Berry", 10);
             
             // Apply a flat discount
             cart.Discounts.Add(new Discount(15.00m)); // 15.00 flat discount

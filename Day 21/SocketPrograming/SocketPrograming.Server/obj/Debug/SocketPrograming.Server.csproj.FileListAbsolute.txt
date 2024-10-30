@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\SocketPrograming.Server\bin\Debug\SocketPrograming.Server.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\SocketPrograming.Server\bin\Debug\SocketPrograming.Server.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\SocketPrograming.Server\bin\Debug\SocketPrograming.Server.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\SocketPrograming.Server\obj\Debug\SocketPrograming.Server.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\SocketPrograming.Server\obj\Debug\SocketPrograming.Server.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\SocketPrograming.Server\obj\Debug\SocketPrograming.Server.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 21\SocketPrograming\SocketPrograming.Server\obj\Debug\SocketPrograming.Server.pdb
