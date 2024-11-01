@@ -4,12 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClientBuilder
+namespace SocketProgrammingC.Client
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            var clientBuilder = new ClientBuilder();
+
+
+            Action<string> sendMessageAction = clientBuilder.SendMessage;
+
+
+            clientBuilder.Run(sendMessageAction);
         }
     }
 }
