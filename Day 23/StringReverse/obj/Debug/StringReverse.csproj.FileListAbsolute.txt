@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\StringReverse\bin\Debug\StringReverse.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\StringReverse\bin\Debug\StringReverse.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\StringReverse\bin\Debug\StringReverse.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\StringReverse\obj\Debug\StringReverse.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\StringReverse\obj\Debug\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\StringReverse\obj\Debug\StringReverse.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\StringReverse\obj\Debug\StringReverse.pdb

@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\leastMost\bin\Debug\leastMost.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\leastMost\bin\Debug\leastMost.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\leastMost\bin\Debug\leastMost.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\leastMost\obj\Debug\leastMost.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\leastMost\obj\Debug\leastMost.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\leastMost\obj\Debug\leastMost.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\leastMost\obj\Debug\leastMost.pdb

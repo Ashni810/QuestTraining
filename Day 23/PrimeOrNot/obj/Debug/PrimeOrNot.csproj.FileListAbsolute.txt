@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\PrimeOrNot\bin\Debug\PrimeOrNot.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\PrimeOrNot\bin\Debug\PrimeOrNot.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\PrimeOrNot\bin\Debug\PrimeOrNot.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\PrimeOrNot\obj\Debug\PrimeOrNot.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\PrimeOrNot\obj\Debug\PrimeOrNot.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\PrimeOrNot\obj\Debug\PrimeOrNot.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\PrimeOrNot\obj\Debug\PrimeOrNot.pdb

@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Using Delegates as Parameters\bin\Debug\Using Delegates as Parameters.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Using Delegates as Parameters\bin\Debug\Using Delegates as Parameters.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Using Delegates as Parameters\bin\Debug\Using Delegates as Parameters.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Using Delegates as Parameters\obj\Debug\Using Delegates as Parameters.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Using Delegates as Parameters\obj\Debug\Using Delegates as Parameters.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Using Delegates as Parameters\obj\Debug\Using Delegates as Parameters.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Using Delegates as Parameters\obj\Debug\Using Delegates as Parameters.pdb

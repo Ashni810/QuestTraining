@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\IEnumerable_ICollectio_List\bin\Debug\IEnumerable_ICollectio_List.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\IEnumerable_ICollectio_List\bin\Debug\IEnumerable_ICollectio_List.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\IEnumerable_ICollectio_List\bin\Debug\IEnumerable_ICollectio_List.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\IEnumerable_ICollectio_List\obj\Debug\IEnumerable_ICollectio_List.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\IEnumerable_ICollectio_List\obj\Debug\IEnumerable_ICollectio_List.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\IEnumerable_ICollectio_List\obj\Debug\IEnumerable_ICollectio_List.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\IEnumerable_ICollectio_List\obj\Debug\IEnumerable_ICollectio_List.pdb

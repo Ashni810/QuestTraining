@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Occurence\bin\Debug\Occurence.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Occurence\bin\Debug\Occurence.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Occurence\bin\Debug\Occurence.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Occurence\obj\Debug\Occurence.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Occurence\obj\Debug\Occurence.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Occurence\obj\Debug\Occurence.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\Occurence\obj\Debug\Occurence.pdb

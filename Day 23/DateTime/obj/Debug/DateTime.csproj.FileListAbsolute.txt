@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\DateTime\bin\Debug\DateTime.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\DateTime\bin\Debug\DateTime.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\DateTime\obj\Debug\DateTime.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\DateTime\obj\Debug\DateTime.pdb

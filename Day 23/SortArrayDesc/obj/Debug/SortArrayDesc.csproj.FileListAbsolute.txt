@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\SortArrayDesc\bin\Debug\SortArrayDesc.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\SortArrayDesc\bin\Debug\SortArrayDesc.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\SortArrayDesc\bin\Debug\SortArrayDesc.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\SortArrayDesc\obj\Debug\SortArrayDesc.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\SortArrayDesc\obj\Debug\SortArrayDesc.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\SortArrayDesc\obj\Debug\SortArrayDesc.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\SortArrayDesc\obj\Debug\SortArrayDesc.pdb

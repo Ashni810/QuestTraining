@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\CustomExecption\bin\Debug\CustomExecption.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\CustomExecption\bin\Debug\CustomExecption.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\CustomExecption\bin\Debug\CustomExecption.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\CustomExecption\obj\Debug\CustomExecption.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\CustomExecption\obj\Debug\CustomExecption.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\CustomExecption\obj\Debug\CustomExecption.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\CustomExecption\obj\Debug\CustomExecption.pdb

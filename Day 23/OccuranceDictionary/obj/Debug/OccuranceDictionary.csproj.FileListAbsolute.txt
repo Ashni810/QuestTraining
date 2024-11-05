@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\OccuranceDictionary\bin\Debug\OccuranceDictionary.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\OccuranceDictionary\bin\Debug\OccuranceDictionary.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\OccuranceDictionary\bin\Debug\OccuranceDictionary.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\OccuranceDictionary\obj\Debug\OccuranceDictionary.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\OccuranceDictionary\obj\Debug\OccuranceDictionary.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\OccuranceDictionary\obj\Debug\OccuranceDictionary.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 23\OccuranceDictionary\obj\Debug\OccuranceDictionary.pdb
