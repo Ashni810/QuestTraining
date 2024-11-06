@@ -415,6 +415,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable_ICollectio_List
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime", "..\Day 23\DateTime\DateTime.csproj", "{6C9EA4E6-13C3-406C-8D89-2726648D5FB1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assessment3", "Assessment3", "{32BB334A-57D5-42E6-984C-2FF4975899A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Note-Taking-ConsoleApplication", "..\Assessment\Assessment3\Note-Taking-ConsoleApplication\Note-Taking-ConsoleApplication.csproj", "{B50EA35C-8CAA-4FC7-9870-4421E05C0AB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1113,6 +1117,10 @@ Global
 		{6C9EA4E6-13C3-406C-8D89-2726648D5FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C9EA4E6-13C3-406C-8D89-2726648D5FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C9EA4E6-13C3-406C-8D89-2726648D5FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B50EA35C-8CAA-4FC7-9870-4421E05C0AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50EA35C-8CAA-4FC7-9870-4421E05C0AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50EA35C-8CAA-4FC7-9870-4421E05C0AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50EA35C-8CAA-4FC7-9870-4421E05C0AB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1298,6 +1306,8 @@ Global
 		{A01BED66-75C5-417E-A0B2-C5F8BFE0E4EB} = {807CD379-0241-4D4F-9CC9-6259AFF97F21}
 		{BBE17D85-C38B-40A1-86CF-8DEB4F7B0475} = {807CD379-0241-4D4F-9CC9-6259AFF97F21}
 		{6C9EA4E6-13C3-406C-8D89-2726648D5FB1} = {807CD379-0241-4D4F-9CC9-6259AFF97F21}
+		{32BB334A-57D5-42E6-984C-2FF4975899A8} = {E81443CC-2421-431D-8A49-43B635C7B426}
+		{B50EA35C-8CAA-4FC7-9870-4421E05C0AB7} = {32BB334A-57D5-42E6-984C-2FF4975899A8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F094249-8A72-465B-80C8-6649B7F52369}

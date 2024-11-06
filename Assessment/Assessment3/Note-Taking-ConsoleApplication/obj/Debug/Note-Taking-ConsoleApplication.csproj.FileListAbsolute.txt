@@ -1,0 +1,11 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment3\Note-Taking-ConsoleApplication\bin\Debug\Note-Taking-ConsoleApplication.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment3\Note-Taking-ConsoleApplication\bin\Debug\Note-Taking-ConsoleApplication.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment3\Note-Taking-ConsoleApplication\bin\Debug\Note-Taking-ConsoleApplication.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment3\Note-Taking-ConsoleApplication\obj\Debug\Note-Taking-ConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment3\Note-Taking-ConsoleApplication\obj\Debug\Note-Taking-ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment3\Note-Taking-ConsoleApplication\obj\Debug\Note-Taking-ConsoleApplication.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment3\Note-Taking-ConsoleApplication\obj\Debug\Note-Taking-ConsoleApplication.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment3\Note-Taking-ConsoleApplication\bin\Debug\log4net.dll
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment3\Note-Taking-ConsoleApplication\bin\Debug\log4net.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment3\Note-Taking-ConsoleApplication\bin\Debug\log4net.xml
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Assessment\Assessment3\Note-Taking-ConsoleApplication\obj\Debug\Note-Tak.D54D3A76.Up2Date
