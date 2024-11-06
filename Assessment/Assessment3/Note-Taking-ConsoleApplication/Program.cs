@@ -12,9 +12,8 @@ namespace Note_Taking_ConsoleApplication
         static void Main(string[] args)
         {
             string connectionString = @"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = C:\Users\ashni\OneDrive\Documents\NoteTakingApp.mdf; Integrated Security = True";
-            string logFilePath = "application_log.txt";
-            var logger = new Logger(logFilePath);
-            var noteManager = new NoteManager(connectionString, logger);
+           
+            var noteManager = new NoteManager(connectionString);
 
             while (true)
             {
@@ -80,4 +79,3 @@ namespace Note_Taking_ConsoleApplication
         }
     }
 }
-

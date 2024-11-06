@@ -59,7 +59,7 @@ namespace Note_Taking_ConsoleApplication.Repositories
                                 Title = Convert.ToString(reader["Title"]),
                                 Content = Convert.ToString(reader["Content"]),
                                 CreatedAt = Convert.ToDateTime(reader["CreatedAt"]),
-                                UpdatedAt = reader["UpdatedAt"] == DBNull.Value ? null : (DateTime?)reader["UpdatedAt"]
+                                UpdatedAt = Convert.ToDateTime(reader["UpdateddAt"]),
                             };
 
                             notes.Add(note);

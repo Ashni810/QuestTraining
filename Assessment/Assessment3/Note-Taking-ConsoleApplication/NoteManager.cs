@@ -8,17 +8,18 @@ using System.Threading.Tasks;
 
 namespace Note_Taking_ConsoleApplication
 {
+    using log4net.Repository.Hierarchy;
     using System;
 
     public class NoteManager
     {
         private readonly NoteRepository _repository;
-        private readonly Logger _logger;
+       
 
-        public NoteManager(string connectionString, Logger logger)
+        public NoteManager(string connectionString)
         {
             _repository = new NoteRepository(connectionString);
-            _logger = logger;
+           
         }
 
         public void CreateNote(string title, string content)
@@ -33,11 +34,11 @@ namespace Note_Taking_ConsoleApplication
                 };
 
                 _repository.Add(note);
-                _logger.Log($"Note created: {note.Title}");
+                Console.WriteLine($"Note created: {note.Title}");
             }
             catch (Exception ex)
             {
-                _logger.Log($"Error: {ex.Message}");
+                Console.WriteLine($"Error: {ex.Message}");
             }
         }
 
@@ -48,13 +49,13 @@ namespace Note_Taking_ConsoleApplication
                 var notes = _repository.GetAll();
                 foreach (var note in notes)
                 {
-                    Console.WriteLine($"ID: {note.NoteId}, Title: {note.Title}, Created At: {note.CreatedAt}, Content: {note.Content.Substring(0, Math.Min(note.Content.Length, 30))}...");
+                    Console.WriteLine($"ID: {note.NoteId}, Title: {note.Title}, Created At: {note.CreatedAt}, Content: {note.Content}...");
                 }
-                _logger.Log("Viewed all notes");
+              
             }
             catch (Exception ex)
             {
-                _logger.Log($"Error: {ex.Message}");
+                Console.WriteLine($"Error: {ex.Message}");
             }
         }
 
@@ -71,11 +72,11 @@ namespace Note_Taking_ConsoleApplication
                 };
 
                 _repository.Update(note);
-                _logger.Log($"Note updated: {note.Title}");
+                Console.WriteLine($"Note updated: {note.Title}");
             }
             catch (Exception ex)
             {
-                _logger.Log($"Error: {ex.Message}");
+                Console.WriteLine($"Error: {ex.Message}");
             }
         }
 
@@ -84,11 +85,11 @@ namespace Note_Taking_ConsoleApplication
             try
             {
                 _repository.Delete(id);
-                _logger.Log($"Note deleted: ID {id}");
+                Console.WriteLine($"Note deleted: ID {id}");
             }
             catch (Exception ex)
             {
-                _logger.Log($"Error: {ex.Message}");
+                Console.WriteLine($"Error: {ex.Message}");
             }
         }
     }
