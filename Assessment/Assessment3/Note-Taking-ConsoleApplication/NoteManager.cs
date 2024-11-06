@@ -8,9 +8,6 @@ using System.Threading.Tasks;
 
 namespace Note_Taking_ConsoleApplication
 {
-    using log4net.Repository.Hierarchy;
-    using System;
-
     public class NoteManager
     {
         private readonly NoteRepository _repository;
