@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\QuestTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B50EA35C-8CAA-4FC7-9870-4421E05C0AB7}|..\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Note-Taking-ConsoleApplication.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\assessment\\assessment3\\note-taking-consoleapplication\\notemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50EA35C-8CAA-4FC7-9870-4421E05C0AB7}|..\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Note-Taking-ConsoleApplication.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\assessment\\assessment3\\note-taking-consoleapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50EA35C-8CAA-4FC7-9870-4421E05C0AB7}|..\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Note-Taking-ConsoleApplication.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\assessment\\assessment3\\note-taking-consoleapplication\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B50EA35C-8CAA-4FC7-9870-4421E05C0AB7}|..\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Note-Taking-ConsoleApplication.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\assessment\\assessment3\\note-taking-consoleapplication\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FABDCF0B-E1E5-40D3-9A93-412158618D26}|ConsoleApp9\\ConsoleApp9.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\questtraining\\consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FABDCF0B-E1E5-40D3-9A93-412158618D26}|ConsoleApp9\\ConsoleApp9.csproj|solutionrelative:consoleapp9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,52 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Note.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Models\\Note.cs",
-              "RelativeDocumentMoniker": "..\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Models\\Note.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Models\\Note.cs",
-              "RelativeToolTip": "..\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Models\\Note.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:00:41.951Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NoteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Repositories\\NoteRepository.cs",
-              "RelativeDocumentMoniker": "..\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Repositories\\NoteRepository.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Repositories\\NoteRepository.cs",
-              "RelativeToolTip": "..\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Repositories\\NoteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:00:40.177Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "NoteManager.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\NoteManager.cs",
-              "RelativeDocumentMoniker": "..\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\NoteManager.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\NoteManager.cs",
-              "RelativeToolTip": "..\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\NoteManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:00:36.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Program.cs",
-              "RelativeToolTip": "..\\Assessment\\Assessment3\\Note-Taking-ConsoleApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\QuestTraining\\ConsoleApp9\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp9\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\QuestTraining\\ConsoleApp9\\Program.cs",
+              "RelativeToolTip": "ConsoleApp9\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T13:00:33.435Z",
+              "WhenOpened": "2024-11-08T09:04:51.52Z",
               "EditorCaption": ""
             }
           ]
