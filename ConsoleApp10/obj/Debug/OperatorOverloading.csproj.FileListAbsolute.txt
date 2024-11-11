@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\ConsoleApp10\obj\Debug\OperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\ConsoleApp10\obj\Debug\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\ConsoleApp10\obj\Debug\ConsoleApp10.pdb

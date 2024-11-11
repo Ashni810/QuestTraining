@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\OperatedOverloadingStruct\bin\Debug\OperatedOverloadingStruct.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\OperatedOverloadingStruct\bin\Debug\OperatedOverloadingStruct.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\OperatedOverloadingStruct\bin\Debug\OperatedOverloadingStruct.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\OperatedOverloadingStruct\obj\Debug\OperatedOverloadingStruct.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\OperatedOverloadingStruct\obj\Debug\OperatedOverloadingStruct.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\OperatedOverloadingStruct\obj\Debug\OperatedOverloadingStruct.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\OperatedOverloadingStruct\obj\Debug\OperatedOverloadingStruct.pdb

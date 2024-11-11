@@ -16,13 +16,21 @@ namespace ConsoleApp9
     {
         static void Main(string[] args)
         {
-            // Update this path to where you saved your CSV file
-            string filePath = "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\ConsoleApp9\\data\\data.csv";
-            var records = ReadCsv(filePath);
+           
+            string filePath = "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\data.csv";
 
-            foreach (var record in records)
+            try
             {
-                Console.WriteLine($"Id: {record.Id}, Name: {record.Name}");
+                var records = ReadCsv(filePath);
+
+                foreach (var record in records)
+                {
+                    Console.WriteLine($"Id: {record.Id}, Name: {record.Name}");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An error occurred: {ex.Message}");
             }
         }
 
