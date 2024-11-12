@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\SnakeGame\bin\Debug\SnakeGame.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\SnakeGame\bin\Debug\SnakeGame.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\SnakeGame\bin\Debug\SnakeGame.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\SnakeGame\obj\Debug\SnakeGame.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\SnakeGame\obj\Debug\SnakeGame.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\SnakeGame\obj\Debug\SnakeGame.pdb

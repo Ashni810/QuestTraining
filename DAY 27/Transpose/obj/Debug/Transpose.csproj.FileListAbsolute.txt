@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\Transpose\bin\Debug\Transpose.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\Transpose\bin\Debug\Transpose.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\Transpose\bin\Debug\Transpose.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\Transpose\obj\Debug\Transpose.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\Transpose\obj\Debug\Transpose.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\Transpose\obj\Debug\Transpose.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\Transpose\obj\Debug\Transpose.pdb

@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\2D-ARRAY\bin\Debug\2D-ARRAY.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\2D-ARRAY\bin\Debug\2D-ARRAY.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\2D-ARRAY\bin\Debug\2D-ARRAY.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\2D-ARRAY\obj\Debug\2D-ARRAY.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\2D-ARRAY\obj\Debug\2D-ARRAY.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\2D-ARRAY\obj\Debug\2D-ARRAY.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\2D-ARRAY\obj\Debug\2D-ARRAY.pdb

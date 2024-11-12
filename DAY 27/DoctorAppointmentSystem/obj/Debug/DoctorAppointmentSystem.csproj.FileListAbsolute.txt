@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\DoctorAppointmentSystem\bin\Debug\DoctorAppointmentSystem.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\DoctorAppointmentSystem\bin\Debug\DoctorAppointmentSystem.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\DoctorAppointmentSystem\bin\Debug\DoctorAppointmentSystem.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\DoctorAppointmentSystem\obj\Debug\DoctorAppointmentSystem.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\DoctorAppointmentSystem\obj\Debug\DoctorAppointmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\DoctorAppointmentSystem\obj\Debug\DoctorAppointmentSystem.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\DAY 27\DoctorAppointmentSystem\obj\Debug\DoctorAppointmentSystem.pdb

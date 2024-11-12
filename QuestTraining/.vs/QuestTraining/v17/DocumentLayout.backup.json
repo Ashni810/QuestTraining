@@ -3,10 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\QuestTraining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5192C94-7FC5-4F3E-871C-A2116BAE4655}|..\\Day 26\\HashOfFile\\HashOfFile.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 26\\hashoffile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7D70D65-66D4-4F1C-BAE0-F00892C45776}|..\\DAY 27\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 27\\doctorappointmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D979F976-F505-4F67-A981-66F5CCC0EE98}|..\\Day 26\\HashOfString\\HashOfString.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 26\\hashofstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7D70D65-66D4-4F1C-BAE0-F00892C45776}|..\\DAY 27\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 27\\doctorappointmentsystem\\appointmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D70D65-66D4-4F1C-BAE0-F00892C45776}|..\\DAY 27\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 27\\doctorappointmentsystem\\manager\\iappointmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D70D65-66D4-4F1C-BAE0-F00892C45776}|..\\DAY 27\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 27\\doctorappointmentsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D70D65-66D4-4F1C-BAE0-F00892C45776}|..\\DAY 27\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 27\\doctorappointmentsystem\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D70D65-66D4-4F1C-BAE0-F00892C45776}|..\\DAY 27\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 27\\doctorappointmentsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D70D65-66D4-4F1C-BAE0-F00892C45776}|..\\DAY 27\\DoctorAppointmentSystem\\DoctorAppointmentSystem.csproj|c:\\users\\ashni\\onedrive\\documents\\github\\questtraining\\day 27\\doctorappointmentsystem\\status\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,32 +31,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 26\\HashOfFile\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 26\\HashOfFile\\Program.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 26\\HashOfFile\\Program.cs",
-              "RelativeToolTip": "..\\Day 26\\HashOfFile\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAswDsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "..\\DAY 27\\DoctorAppointmentSystem\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\Models\\Patient.cs",
+              "RelativeToolTip": "..\\DAY 27\\DoctorAppointmentSystem\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T09:14:59.745Z",
+              "WhenOpened": "2024-11-12T11:50:56.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "..\\DAY 27\\DoctorAppointmentSystem\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\Models\\Appointment.cs",
+              "RelativeToolTip": "..\\DAY 27\\DoctorAppointmentSystem\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:32:28.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "..\\DAY 27\\DoctorAppointmentSystem\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\Models\\Doctor.cs",
+              "RelativeToolTip": "..\\DAY 27\\DoctorAppointmentSystem\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:31:39.248Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 26\\HashOfString\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Day 26\\HashOfString\\Program.cs",
-              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\Day 26\\HashOfString\\Program.cs",
-              "RelativeToolTip": "..\\Day 26\\HashOfString\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Title": "AppointmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\AppointmentManager.cs",
+              "RelativeDocumentMoniker": "..\\DAY 27\\DoctorAppointmentSystem\\AppointmentManager.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\AppointmentManager.cs",
+              "RelativeToolTip": "..\\DAY 27\\DoctorAppointmentSystem\\AppointmentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T09:06:18.8Z",
+              "WhenOpened": "2024-11-12T11:37:32.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAppointmentManager.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\Manager\\IAppointmentManager.cs",
+              "RelativeDocumentMoniker": "..\\DAY 27\\DoctorAppointmentSystem\\Manager\\IAppointmentManager.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\Manager\\IAppointmentManager.cs",
+              "RelativeToolTip": "..\\DAY 27\\DoctorAppointmentSystem\\Manager\\IAppointmentManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:38:15.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DAY 27\\DoctorAppointmentSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\Program.cs",
+              "RelativeToolTip": "..\\DAY 27\\DoctorAppointmentSystem\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:26:43.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppointmentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\Status\\AppointmentStatus.cs",
+              "RelativeDocumentMoniker": "..\\DAY 27\\DoctorAppointmentSystem\\Status\\AppointmentStatus.cs",
+              "ToolTip": "C:\\Users\\ashni\\OneDrive\\Documents\\GitHub\\QuestTraining\\DAY 27\\DoctorAppointmentSystem\\Status\\AppointmentStatus.cs",
+              "RelativeToolTip": "..\\DAY 27\\DoctorAppointmentSystem\\Status\\AppointmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T11:39:25.793Z",
               "EditorCaption": ""
             }
           ]

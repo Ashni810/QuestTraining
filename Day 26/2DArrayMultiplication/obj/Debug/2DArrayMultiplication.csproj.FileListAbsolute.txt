@@ -1,0 +1,7 @@
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 26\2DArrayMultiplication\bin\Debug\2DArrayMultiplication.exe.config
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 26\2DArrayMultiplication\bin\Debug\2DArrayMultiplication.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 26\2DArrayMultiplication\bin\Debug\2DArrayMultiplication.pdb
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 26\2DArrayMultiplication\obj\Debug\2DArrayMultiplication.csproj.AssemblyReference.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 26\2DArrayMultiplication\obj\Debug\2DArrayMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 26\2DArrayMultiplication\obj\Debug\2DArrayMultiplication.exe
+C:\Users\ashni\OneDrive\Documents\GitHub\QuestTraining\Day 26\2DArrayMultiplication\obj\Debug\2DArrayMultiplication.pdb
